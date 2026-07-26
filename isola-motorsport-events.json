@@ -1,16 +1,214 @@
 {
   "version": 1,
-  "updated_at": "2026-07-26T00:00:00+02:00",
+  "updated_at": "2026-07-26T15:00:00+02:00",
   "events": [
+    {
+      "id": "valle-templi-track-day-moto-2026-08",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Track Day Moto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "source_url": "https://autodromovalledeitempli.com/",
+      "status": "confirmed"
+    },
+    {
+      "id": "rally-tirreno-messina-2026",
+      "marker": "Rally Tirreno Messina",
+      "title": "23° Rally Tirreno-Messina",
+      "category": "rally",
+      "location": "Messina",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8364/rally-tirreno-%E2%80%93-messina/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "monte-erice-2026",
+      "marker": "Cronoscalata Monte Erice",
+      "title": "68ª Monte Erice",
+      "category": "cronoscalata",
+      "location": "Erice",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "source_url": "https://www.acisport.it/it/CIVM/calendario-e-risultati/2026/8392/68%5E-monte-erice",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-pirata-racing-2026-09",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Pirata Racing Team",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "source_url": "https://autodromovalledeitempli.com/",
+      "status": "confirmed"
+    },
+    {
+      "id": "coppa-nissena-2026",
+      "marker": "Coppa Nissena",
+      "title": "71ª Coppa Nissena",
+      "category": "cronoscalata",
+      "location": "Caltanissetta",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.acisport.it/it/acisport/calendari/9/2026/0/0",
+      "status": "confirmed"
+    },
+    {
+      "id": "coppa-italia-zona-minoa-2026",
+      "marker": "Kartodromo Minoa",
+      "title": "Finale Coppa Italia Zona 6 Sicilia",
+      "category": "kartodromo",
+      "location": "Eraclea Minoa",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.acisport.it/it/CIZ/notizie/2026/127696/la-coppa-italia-di-zona-6---sicilia-torna-a-triscina-per-il-penultimo-round-stagionale",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-hours-run-2026-09",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Hours Run 2026",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://autodromovalledeitempli.com/calendario/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-we-can-race-2026-09",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "We Can Race",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "source_url": "https://autodromovalledeitempli.com/calendario/",
+      "status": "confirmed"
+    },
+    {
+      "id": "tindari-rally-2026",
+      "marker": "Tindari Rally",
+      "title": "11° Tindari Rally",
+      "category": "rally",
+      "location": "Patti",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8365/tindari-rally/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-sprint-sws-2026-09",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "5ª Prova Campionato Sprint SWS Rent Cup",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-time-attack-2026-10",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Time Attack 2026",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "source_url": "https://autodromovalledeitempli.com/event-type/corsi-di-guida-auto/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-pirata-racing-2026-10",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Pirata Racing Team",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-6.l-L1/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-track-day-auto-2026-10",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Track Day Auto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "source_url": "https://autodromovalledeitempli.com/event-type/corsi-di-guida-auto/",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-sprint-sws-2026-10",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "6ª Prova Campionato Sprint SWS Rent Cup",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
     {
       "id": "salita-monti-iblei-2026",
       "marker": "Salita dei Monti Iblei",
-      "title": "Salita dei Monti Iblei",
+      "title": "69ª Salita dei Monti Iblei",
       "category": "cronoscalata",
       "location": "Chiaramonte Gulfi",
       "start_date": "2026-11-06",
       "end_date": "2026-11-08",
-      "source_url": "https://salitamontiiblei.it/",
+      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/3974620/65%5E-salita-dei-monti-iblei",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-sprint-sws-2026-11",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "7ª Prova Campionato Sprint SWS Rent Cup",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-endurance-finale-2026",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "Finale Campionato Endurance SWS Rent Cup",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-sprint-finale-2026",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "Finale Campionato Sprint SWS Rent Cup",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-final-cup-karting-sicilia-2026",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "Final Cup Karting Sicilia 2026",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
       "status": "confirmed"
     }
   ]
