@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-26T15:00:00+02:00",
+  "updated_at": "2026-07-26T18:00:00+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -58,6 +58,17 @@
       "status": "confirmed"
     },
     {
+      "id": "concordia-cup-2026-09",
+      "marker": "Autodromo Concordia",
+      "title": "Concordia Cup",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
+      "status": "listed"
+    },
+    {
       "id": "coppa-italia-zona-minoa-2026",
       "marker": "Kartodromo Minoa",
       "title": "Finale Coppa Italia Zona 6 Sicilia",
@@ -88,6 +99,28 @@
       "start_date": "2026-09-19",
       "end_date": "2026-09-20",
       "source_url": "https://autodromovalledeitempli.com/calendario/",
+      "status": "confirmed"
+    },
+    {
+      "id": "concordia-junior-trophy-sicilia-2026-09",
+      "marker": "Autodromo Concordia",
+      "title": "Junior Trophy Sicilia",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
+      "status": "listed"
+    },
+    {
+      "id": "concordia-emozione-corsa-2026-09",
+      "marker": "Autodromo Concordia",
+      "title": "Emozione Corsa",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-27",
+      "source_url": "https://emozionecorsa.com/eventi/",
       "status": "confirmed"
     },
     {
@@ -124,6 +157,17 @@
       "status": "confirmed"
     },
     {
+      "id": "concordia-automobilismo-asi-sicilia-2026-10",
+      "marker": "Autodromo Concordia",
+      "title": "Automobilismo ASI Sicilia",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
+      "status": "listed"
+    },
+    {
       "id": "valle-templi-pirata-racing-2026-10",
       "marker": "Autodromo Valle dei Templi",
       "title": "Pirata Racing Team",
@@ -133,6 +177,17 @@
       "end_date": "2026-10-11",
       "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-6.l-L1/",
       "status": "confirmed"
+    },
+    {
+      "id": "concordia-cup-2026-10",
+      "marker": "Autodromo Concordia",
+      "title": "Concordia Cup",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
+      "status": "listed"
     },
     {
       "id": "valle-templi-track-day-auto-2026-10",
@@ -168,6 +223,17 @@
       "status": "confirmed"
     },
     {
+      "id": "concordia-automobilismo-asi-sicilia-2026-11",
+      "marker": "Autodromo Concordia",
+      "title": "Automobilismo ASI Sicilia",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
+      "status": "listed"
+    },
+    {
       "id": "triscina-sprint-sws-2026-11",
       "marker": "Circuito Internazionale di Triscina",
       "title": "7ª Prova Campionato Sprint SWS Rent Cup",
@@ -188,6 +254,17 @@
       "end_date": "2026-12-05",
       "source_url": "https://www.circuitotriscina.com/?1=calendario",
       "status": "confirmed"
+    },
+    {
+      "id": "concordia-trofeo-natale-2026",
+      "marker": "Autodromo Concordia",
+      "title": "Trofeo di Natale / Concordia Cup",
+      "category": "autodromo",
+      "location": "Agrigento",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
+      "status": "listed"
     },
     {
       "id": "triscina-sprint-finale-2026",
