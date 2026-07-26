@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-26T18:00:00+02:00",
+  "updated_at": "2026-07-26T22:20:00+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -201,6 +201,17 @@
       "status": "confirmed"
     },
     {
+      "id": "rally-taormina-2026",
+      "marker": "Rally di Taormina",
+      "title": "16° Rally di Taormina",
+      "category": "rally",
+      "location": "Taormina",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8366/rally-di-taormina/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
       "id": "triscina-sprint-sws-2026-10",
       "marker": "Circuito Internazionale di Triscina",
       "title": "6ª Prova Campionato Sprint SWS Rent Cup",
@@ -234,6 +245,17 @@
       "status": "listed"
     },
     {
+      "id": "rally-barocco-ibleo-2026",
+      "marker": "Rally Barocco Ibleo",
+      "title": "14° Rally del Barocco Ibleo",
+      "category": "rally",
+      "location": "Ragusa",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "source_url": "https://www.acisport.it/it/acisport/calendari/11/2026/0/0",
+      "status": "confirmed"
+    },
+    {
       "id": "triscina-sprint-sws-2026-11",
       "marker": "Circuito Internazionale di Triscina",
       "title": "7ª Prova Campionato Sprint SWS Rent Cup",
@@ -242,6 +264,17 @@
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "rally-citta-corleone-2026",
+      "marker": "Rally Città di Corleone",
+      "title": "1° Rally Città di Corleone",
+      "category": "rally",
+      "location": "Corleone",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "source_url": "https://www.acisport.it/it/acisport/calendari/12/2026/0/0",
       "status": "confirmed"
     },
     {
