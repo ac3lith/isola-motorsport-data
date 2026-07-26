@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-26T00:00:00+02:00",
+  "events": [
+    {
+      "id": "salita-monti-iblei-2026",
+      "marker": "Salita dei Monti Iblei",
+      "title": "Salita dei Monti Iblei",
+      "category": "cronoscalata",
+      "location": "Chiaramonte Gulfi",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "source_url": "https://salitamontiiblei.it/",
+      "status": "confirmed"
+    }
+  ]
+}
