@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-26T22:20:00+02:00",
+  "updated_at": "2026-07-27T09:00:00+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -67,6 +67,17 @@
       "end_date": "2026-09-13",
       "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
       "status": "listed"
+    },
+    {
+      "id": "sole-luna-ironman-2026-09",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Ironman",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
     },
     {
       "id": "coppa-italia-zona-minoa-2026",
@@ -264,6 +275,17 @@
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "sole-luna-endurance-4h-2026-11",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Endurance 4H",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
       "status": "confirmed"
     },
     {
