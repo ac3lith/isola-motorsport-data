@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-27T17:00:00+02:00",
+  "updated_at": "2026-07-27T18:00:00+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -210,6 +210,17 @@
       "end_date": "2026-09-27",
       "source_url": "https://www.autoslalom.it/events/event/23-slalom-citta-internazionale-dei-marmi/",
       "status": "manual"
+    },
+    {
+      "id": "scordia-militello-2026",
+      "marker": "Scordia - Militello",
+      "title": "6ª Cronoscalata Scordia-Militello",
+      "category": "cronoscalata",
+      "location": "Scordia–Militello in Val di Catania",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.acisport.it/it/civm/calendario-e-risultati/2026/8397/6%5E-cronoscalata-scordia-militello/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
     },
     {
       "id": "valle-templi-time-attack-2026-10",
