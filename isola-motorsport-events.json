@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-27T09:00:00+02:00",
+  "updated_at": "2026-07-27T16:00:00+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -25,6 +25,17 @@
       "status": "confirmed"
     },
     {
+      "id": "slalom-termini-caccamo-2026",
+      "marker": "Slalom Termini-Caccamo",
+      "title": "Slalom Termini-Caccamo",
+      "category": "slalom",
+      "location": "Termini Imerese",
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "source_url": "https://acelith.com/pages/isola-motorsport",
+      "status": "manual"
+    },
+    {
       "id": "monte-erice-2026",
       "marker": "Cronoscalata Monte Erice",
       "title": "68ª Monte Erice",
@@ -45,6 +56,17 @@
       "end_date": "2026-09-06",
       "source_url": "https://autodromovalledeitempli.com/",
       "status": "confirmed"
+    },
+    {
+      "id": "slalom-ucria-2026",
+      "marker": "Slalom Ucria",
+      "title": "Slalom Ucria",
+      "category": "slalom",
+      "location": "Ucria",
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "source_url": "https://www.facebook.com/autoslalomcittadiucria/?locale=it_IT",
+      "status": "manual"
     },
     {
       "id": "coppa-nissena-2026",
@@ -124,6 +146,17 @@
       "status": "listed"
     },
     {
+      "id": "slalom-avola-2026",
+      "marker": "Slalom Avola",
+      "title": "Slalom Avola",
+      "category": "slalom",
+      "location": "Avola",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "source_url": "https://www.acisport.it/it/slalom/calendario-e-risultati/2025/8236/slalom-citt%C3%A0-di-avola/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "manual"
+    },
+    {
       "id": "concordia-emozione-corsa-2026-09",
       "marker": "Autodromo Concordia",
       "title": "Emozione Corsa",
@@ -157,6 +190,17 @@
       "status": "confirmed"
     },
     {
+      "id": "slalom-citta-marmi-custonaci-2026",
+      "marker": "Slalom Città dei Marmi-Custonaci",
+      "title": "Slalom Città dei Marmi-Custonaci",
+      "category": "slalom",
+      "location": "Custonaci",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.autoslalom.it/events/event/23-slalom-citta-internazionale-dei-marmi/",
+      "status": "manual"
+    },
+    {
       "id": "valle-templi-time-attack-2026-10",
       "marker": "Autodromo Valle dei Templi",
       "title": "Time Attack 2026",
@@ -188,6 +232,17 @@
       "end_date": "2026-10-11",
       "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-6.l-L1/",
       "status": "confirmed"
+    },
+    {
+      "id": "slalom-torregrotta-2026",
+      "marker": "Slalom Torregrotta",
+      "title": "Slalom Torregrotta",
+      "category": "slalom",
+      "location": "Torregrotta",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "source_url": "https://www.topcompetition.it/torregrotta/it/",
+      "status": "manual"
     },
     {
       "id": "concordia-cup-2026-10",
@@ -234,6 +289,17 @@
       "status": "confirmed"
     },
     {
+      "id": "slalom-babbaurra-2026",
+      "marker": "Slalom Babbaurra",
+      "title": "Slalom Babbaurra",
+      "category": "slalom",
+      "location": "Caltanissetta",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "source_url": "https://www.acisport.it/it/acisport/3-15-slalom/10/2025/37",
+      "status": "manual"
+    },
+    {
       "id": "salita-monti-iblei-2026",
       "marker": "Salita dei Monti Iblei",
       "title": "69ª Salita dei Monti Iblei",
@@ -254,6 +320,17 @@
       "end_date": "2026-11-08",
       "source_url": "https://racingcalendar.net/circuit/autodromo-concordia-agrigento/2026",
       "status": "listed"
+    },
+    {
+      "id": "slalom-monti-iblei-2026",
+      "marker": "Slalom Monti Iblei",
+      "title": "Slalom Monti Iblei",
+      "category": "slalom",
+      "location": "Chiaramonte Gulfi",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "source_url": "https://acelith.com/pages/isola-motorsport",
+      "status": "manual"
     },
     {
       "id": "rally-barocco-ibleo-2026",
