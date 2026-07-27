@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-27T16:00:00+02:00",
+  "updated_at": "2026-07-27T17:00:00+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -99,6 +99,17 @@
       "start_date": "2026-09-12",
       "end_date": "2026-09-12",
       "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "karting-messina-trofeo-trinacria-2026",
+      "marker": "Karting Club Messina",
+      "title": "Trofeo Trinacria 2026 — 2ª Tappa",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "source_url": "https://xracemotorsport.com/en/products/trofeo-trinacria-sicilia-2026",
       "status": "confirmed"
     },
     {
@@ -234,6 +245,17 @@
       "status": "confirmed"
     },
     {
+      "id": "karting-messina-sprint-sws-2026-10",
+      "marker": "Karting Club Messina",
+      "title": "6ª Prova Campionato Sprint SWS 2026",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "source_url": "https://www.tempostretto.it/news/kart-riparte-il-campionato-sprint-otto-appuntamenti-di-cui-due-interprovinciali.html",
+      "status": "listed"
+    },
+    {
       "id": "slalom-torregrotta-2026",
       "marker": "Slalom Torregrotta",
       "title": "Slalom Torregrotta",
@@ -289,6 +311,17 @@
       "status": "confirmed"
     },
     {
+      "id": "karting-messina-endurance-2h-2026-10",
+      "marker": "Karting Club Messina",
+      "title": "2H Endurance — 5ª Prova",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "source_url": "https://sportwebsicilia.it/2026/01/23/karting-messina-campionato-endurance-2026-prima-gara/",
+      "status": "listed"
+    },
+    {
       "id": "slalom-babbaurra-2026",
       "marker": "Slalom Babbaurra",
       "title": "Slalom Babbaurra",
@@ -309,6 +342,17 @@
       "end_date": "2026-11-08",
       "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/3974620/65%5E-salita-dei-monti-iblei",
       "status": "confirmed"
+    },
+    {
+      "id": "karting-messina-sprint-sws-2026-11",
+      "marker": "Karting Club Messina",
+      "title": "7ª Prova Campionato Sprint SWS 2026",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "source_url": "https://www.tempostretto.it/news/kart-riparte-il-campionato-sprint-otto-appuntamenti-di-cui-due-interprovinciali.html",
+      "status": "listed"
     },
     {
       "id": "concordia-automobilismo-asi-sicilia-2026-11",
@@ -355,6 +399,17 @@
       "status": "confirmed"
     },
     {
+      "id": "karting-messina-endurance-4h-2026-11",
+      "marker": "Karting Club Messina",
+      "title": "4H Endurance — 6ª Prova",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "source_url": "https://sportwebsicilia.it/2026/01/23/karting-messina-campionato-endurance-2026-prima-gara/",
+      "status": "listed"
+    },
+    {
       "id": "sole-luna-endurance-4h-2026-11",
       "marker": "Circuito Internazionale Sole Luna",
       "title": "Endurance 4H",
@@ -388,6 +443,17 @@
       "status": "confirmed"
     },
     {
+      "id": "karting-messina-sprint-finale-2026",
+      "marker": "Karting Club Messina",
+      "title": "Finale Campionato Sprint SWS 2026",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "source_url": "https://www.tempostretto.it/news/kart-riparte-il-campionato-sprint-otto-appuntamenti-di-cui-due-interprovinciali.html",
+      "status": "listed"
+    },
+    {
       "id": "concordia-trofeo-natale-2026",
       "marker": "Autodromo Concordia",
       "title": "Trofeo di Natale / Concordia Cup",
@@ -408,6 +474,17 @@
       "end_date": "2026-12-19",
       "source_url": "https://www.circuitotriscina.com/?1=calendario",
       "status": "confirmed"
+    },
+    {
+      "id": "karting-messina-endurance-finale-2026",
+      "marker": "Karting Club Messina",
+      "title": "2H Finale Campionato Endurance 2026",
+      "category": "kartodromo",
+      "location": "Messina",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "source_url": "https://sportwebsicilia.it/2026/01/23/karting-messina-campionato-endurance-2026-prima-gara/",
+      "status": "listed"
     },
     {
       "id": "triscina-final-cup-karting-sicilia-2026",
