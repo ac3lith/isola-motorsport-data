@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-28T16:00:42+02:00",
+  "updated_at": "2026-07-28T16:12:21+02:00",
   "events": [
     {
       "id": "valle-templi-track-day-moto-2026-08",
@@ -22,6 +22,17 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-01",
       "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "concordia-prove-libere-notturne-moto-2026-08-01",
+      "marker": "Autodromo Concordia",
+      "title": "Prove Libere Notturne Moto",
+      "category": "autodromo",
+      "location": "Favara",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "source_url": "https://www.instagram.com/autodromoconcordia/",
       "status": "confirmed"
     },
     {
@@ -47,6 +58,17 @@
       "status": "confirmed"
     },
     {
+      "id": "concordia-prove-libere-notturne-moto-2026-08-08",
+      "marker": "Autodromo Concordia",
+      "title": "Prove Libere Notturne Moto",
+      "category": "autodromo",
+      "location": "Favara",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "source_url": "https://www.instagram.com/autodromoconcordia/",
+      "status": "confirmed"
+    },
+    {
       "id": "slalom-termini-caccamo-2026",
       "marker": "Slalom Termini-Caccamo",
       "title": "2° Slalom Termini-Caccamo",
@@ -66,6 +88,17 @@
       "start_date": "2026-08-29",
       "end_date": "2026-08-29",
       "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "concordia-ability-stage-rally-2026-08",
+      "marker": "Autodromo Concordia",
+      "title": "Ability Stage Rally — 3ª Prova Notturna",
+      "category": "autodromo",
+      "location": "Favara",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "source_url": "https://www.instagram.com/autodromoconcordia/",
       "status": "confirmed"
     },
     {
@@ -443,6 +476,17 @@
       "status": "confirmed"
     },
     {
+      "id": "concordia-ability-stage-rally-2026-11",
+      "marker": "Autodromo Concordia",
+      "title": "Ability Stage Rally — 4ª Prova",
+      "category": "autodromo",
+      "location": "Favara",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "source_url": "https://www.instagram.com/autodromoconcordia/",
+      "status": "confirmed"
+    },
+    {
       "id": "slalom-monti-iblei-2026",
       "marker": "Slalom Monti Iblei",
       "title": "1° Slalom dei Monti Iblei SP7 Chiaramonte Gulfi",
@@ -561,6 +605,17 @@
       "start_date": "2026-12-12",
       "end_date": "2026-12-12",
       "source_url": "https://www.circuitovincenzaispica.it/event/iron-man-series/",
+      "status": "confirmed"
+    },
+    {
+      "id": "concordia-ability-stage-rally-2026-12",
+      "marker": "Autodromo Concordia",
+      "title": "Ability Stage Rally — 5ª Prova",
+      "category": "autodromo",
+      "location": "Favara",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "source_url": "https://www.instagram.com/autodromoconcordia/",
       "status": "confirmed"
     },
     {
