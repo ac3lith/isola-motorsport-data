@@ -1,4 +1,148 @@
 {
-  "updated_at": "2026-07-28T00:00:00+02:00",
-  "meetups": []
+  "updated_at": "2026-07-28T16:33:33+02:00",
+  "meetups": [
+    {
+      "id": "motoraduno-etna-belpasso-2026",
+      "title": "49° Motoraduno dell’Etna",
+      "location": "Belpasso",
+      "province": "CT",
+      "organizer": "Moto Club Belpasso",
+      "start_date": "2026-07-28",
+      "end_date": "2026-08-02",
+      "source_url": "https://www.fmisicilia.it/49-motoraduno-delletna-6-prova-t-t-s-dal-28-luglio-al-02-agosto/",
+      "status": "confirmed"
+    },
+    {
+      "id": "vespisti-notte-marsala-2026",
+      "title": "I Vespisti della Notte",
+      "location": "Marsala",
+      "province": "TP",
+      "organizer": "Vespa Club Marsala",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "sull-etna-col-px-2026",
+      "title": "Sull’Etna col PX",
+      "location": "Etna",
+      "province": "CT",
+      "organizer": "Vespa Club Etna",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "meeting-etneo-fiat-500-2026",
+      "title": "20° Meeting Etneo Fiat 500",
+      "location": "Catania",
+      "province": "CT",
+      "organizer": "Fiat 500 Club Italia",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.500clubitalia.it/etn/20-meeting-etneo-fiat-500/",
+      "status": "confirmed"
+    },
+    {
+      "id": "vespa-raduno-niscemi-2026",
+      "title": "13° Raduno Nazionale Città di Niscemi",
+      "location": "Niscemi",
+      "province": "CL",
+      "organizer": "Vespa Club Niscemi",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "fiat-500-castellammare-golfo-2026",
+      "title": "3° Raduno Città di Castellammare del Golfo",
+      "location": "Castellammare del Golfo",
+      "province": "TP",
+      "organizer": "Coordinamento Alcamo – Fiat 500 Club Italia",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.500clubitalia.it/etn/3-raduno-citta-di-castellammare-del-golfo/",
+      "status": "confirmed"
+    },
+    {
+      "id": "extreme-riders-curve-gusto-2026",
+      "title": "Motoraduno Extreme Riders “Curve & Gusto”",
+      "location": "Ragusa",
+      "province": "RG",
+      "organizer": "Moto Club Extreme Riders",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "source_url": "https://www.federmoto.it/wp-content/uploads/sites/2/2025/11/Calendario-mototurismo-2026.pdf",
+      "status": "confirmed"
+    },
+    {
+      "id": "vespatizzati-canicatti-2026",
+      "title": "Adesso tocca a noi – Vespatizzati Canicattì",
+      "location": "Canicattì",
+      "province": "AG",
+      "organizer": "Vespa Club Canicattì",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "vespa-memorial-bonura-san-vito-lo-capo-2026",
+      "title": "3° Memorial Giuseppe Bonura",
+      "location": "San Vito Lo Capo",
+      "province": "TP",
+      "organizer": "Vespa Club San Vito Lo Capo",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "fiat-500-contea-modica-2026",
+      "title": "13° Raduno Città della Contea Modica",
+      "location": "Modica",
+      "province": "RG",
+      "organizer": "Coordinamento Modica – Fiat 500 Club Italia",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.500clubitalia.it/etn/13-raduno-citta-della-contea-modica/",
+      "status": "confirmed"
+    },
+    {
+      "id": "vespa-memorial-buttiglieri-termini-imerese-2026",
+      "title": "3° Raduno Nazionale – Memorial Gino Buttiglieri",
+      "location": "Termini Imerese",
+      "province": "PA",
+      "organizer": "Vespa Club Termini Imerese",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "vespa-raduno-ravanusa-2026",
+      "title": "1° Raduno Regionale Turismo Ravanusa",
+      "location": "Ravanusa",
+      "province": "AG",
+      "organizer": "Vespa Club Ravanusa",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "natale-in-fiat-500-giarre-2026",
+      "title": "Natale in 500",
+      "location": "Giarre",
+      "province": "CT",
+      "organizer": "Coordinamento Giarre–Acireale – Fiat 500 Club Italia",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "source_url": "https://www.500clubitalia.it/etn/natale-in-500-3/",
+      "status": "confirmed"
+    }
+  ]
 }
