@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-04T15:56:19+02:00",
+  "updated_at": "2026-08-04T16:13:13+02:00",
   "events": [
     {
       "id": "rally-tirreno-messina-2026",
@@ -38,13 +38,13 @@
     {
       "id": "slalom-termini-caccamo-2026",
       "marker": "Slalom Termini-Caccamo",
-      "title": "2° Slalom Termini-Caccamo",
+      "title": "Slalom Termini-Caccamo",
       "category": "slalom",
       "location": "Termini Imerese",
       "start_date": "2026-08-09",
       "end_date": "2026-08-09",
-      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
-      "status": "confirmed"
+      "source_url": "https://acelith.com/pages/isola-motorsport",
+      "status": "manual"
     },
     {
       "id": "sole-luna-rotax-2-tempi-rental-2026-08-29",
@@ -98,7 +98,7 @@
       "location": "Racalmuto",
       "start_date": "2026-09-04",
       "end_date": "2026-09-06",
-      "source_url": "https://autodromovalledeitempli.com/",
+      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-5.l-L1/",
       "status": "confirmed"
     },
     {
@@ -126,7 +126,7 @@
     {
       "id": "slalom-ucria-manual-2026-09-09",
       "marker": "Slalom Ucria",
-      "title": "5° Slalom Città di Ucria",
+      "title": "Slalom Ucria",
       "category": "slalom",
       "location": "Ucria",
       "start_date": "2026-09-09",
@@ -143,17 +143,6 @@
       "start_date": "2026-09-11",
       "end_date": "2026-09-13",
       "source_url": "https://www.acisport.it/it/civm/calendario-e-risultati/2026/8377/71%5E-coppa-nissena/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
-    },
-    {
-      "id": "sole-luna-ironman-2026-09-12",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Ironman",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
       "status": "confirmed"
     },
     {
@@ -186,7 +175,7 @@
       "location": "Racalmuto",
       "start_date": "2026-09-13",
       "end_date": "2026-09-13",
-      "source_url": "https://autodromovalledeitempli.com/calendario/",
+      "source_url": "https://autodromovalledeitempli.com/events/hours-run-2026/var/ri-1.l-L1/",
       "status": "confirmed"
     },
     {
@@ -197,7 +186,7 @@
       "location": "Racalmuto",
       "start_date": "2026-09-19",
       "end_date": "2026-09-20",
-      "source_url": "https://autodromovalledeitempli.com/calendario/",
+      "source_url": "https://autodromovalledeitempli.com/events/we-can-race-10/var/ri-2.l-L1/",
       "status": "confirmed"
     },
     {
@@ -214,13 +203,13 @@
     {
       "id": "slalom-avola-2026",
       "marker": "Slalom Avola",
-      "title": "18° Slalom Città di Avola",
+      "title": "Slalom Avola",
       "category": "slalom",
       "location": "Avola",
       "start_date": "2026-09-20",
       "end_date": "2026-09-20",
-      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
-      "status": "confirmed"
+      "source_url": "https://www.acisport.it/it/slalom/calendario-e-risultati/2025/8236/slalom-citt%C3%A0-di-avola/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "manual"
     },
     {
       "id": "concordia-emozione-corsa-2026-09",
@@ -274,30 +263,19 @@
       "location": "Racalmuto",
       "start_date": "2026-09-26",
       "end_date": "2026-09-27",
-      "source_url": "https://autodromovalledeitempli.com/track-day-2/",
+      "source_url": "https://autodromovalledeitempli.com/events/tumino-moto-24/var/ri-2.l-L1/",
       "status": "confirmed"
     },
     {
       "id": "slalom-citta-marmi-custonaci-2026",
       "marker": "Slalom Città dei Marmi-Custonaci",
-      "title": "23° Slalom Città Internazionale dei Marmi - Custonaci",
+      "title": "Slalom Città dei Marmi-Custonaci",
       "category": "slalom",
       "location": "Custonaci",
       "start_date": "2026-09-27",
       "end_date": "2026-09-27",
       "source_url": "https://www.autoslalom.it/events/event/23-slalom-citta-internazionale-dei-marmi/",
-      "status": "confirmed"
-    },
-    {
-      "id": "scordia-militello-2026",
-      "marker": "Scordia - Militello",
-      "title": "6ª Cronoscalata Scordia-Militello",
-      "category": "cronoscalata",
-      "location": "Scordia–Militello in Val di Catania",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.acisport.it/it/civm/calendario-e-risultati/2026/8397/6%5E-cronoscalata-scordia-militello/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
+      "status": "manual"
     },
     {
       "id": "vincenza-ispica-iron-man-v-2026",
@@ -318,8 +296,19 @@
       "location": "Racalmuto",
       "start_date": "2026-10-03",
       "end_date": "2026-10-04",
-      "source_url": "https://autodromovalledeitempli.com/event-type/corsi-di-guida-auto/",
+      "source_url": "https://autodromovalledeitempli.com/events/time-attack-2026/var/ri-4.l-L1/",
       "status": "confirmed"
+    },
+    {
+      "id": "scordia-militello-2026",
+      "marker": "Scordia - Militello",
+      "title": "Scordia - Militello",
+      "category": "cronoscalata",
+      "location": "Scordia",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "source_url": "https://cronoscalate.it/events/event/6a-cronoscalata-scordia-militello/",
+      "status": "manual"
     },
     {
       "id": "valle-templi-pirata-racing-2026-10",
@@ -344,15 +333,26 @@
       "status": "confirmed"
     },
     {
+      "id": "sole-luna-25h-of-sicily-2026",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "25H of Sicily",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "source_url": "https://www.circuitosolelunavittoria.it/league_calendar/66",
+      "status": "confirmed"
+    },
+    {
       "id": "slalom-torregrotta-2026",
       "marker": "Slalom Torregrotta",
-      "title": "31° Slalom Torregrotta-Roccavaldina",
+      "title": "Slalom Torregrotta",
       "category": "slalom",
       "location": "Torregrotta",
-      "start_date": "2026-10-10",
+      "start_date": "2026-10-11",
       "end_date": "2026-10-11",
       "source_url": "https://www.topcompetition.it/torregrotta/it/",
-      "status": "confirmed"
+      "status": "manual"
     },
     {
       "id": "valle-templi-track-day-auto-2026-10",
@@ -362,7 +362,7 @@
       "location": "Racalmuto",
       "start_date": "2026-10-17",
       "end_date": "2026-10-18",
-      "source_url": "https://autodromovalledeitempli.com/event-type/corsi-di-guida-auto/",
+      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-3.l-L1/",
       "status": "confirmed"
     },
     {
@@ -428,19 +428,19 @@
       "location": "Racalmuto",
       "start_date": "2026-10-24",
       "end_date": "2026-10-25",
-      "source_url": "https://autodromovalledeitempli.com/track-day-2/",
+      "source_url": "https://autodromovalledeitempli.com/events/tumino-moto-24/var/ri-3.l-L1/",
       "status": "confirmed"
     },
     {
       "id": "slalom-babbaurra-2026",
       "marker": "Slalom Babbaurra",
-      "title": "5° Slalom Babburra Caltanissetta",
+      "title": "Slalom Babbaurra",
       "category": "slalom",
       "location": "Caltanissetta",
       "start_date": "2026-10-25",
       "end_date": "2026-10-25",
-      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
-      "status": "confirmed"
+      "source_url": "https://www.acisport.it/it/acisport/3-15-slalom/10/2025/37",
+      "status": "manual"
     },
     {
       "id": "vincenza-ispica-endurance-2h-2026",
@@ -456,13 +456,13 @@
     {
       "id": "salita-monti-iblei-2026",
       "marker": "Salita dei Monti Iblei",
-      "title": "69ª Salita dei Monti Iblei",
+      "title": "Salita dei Monti Iblei",
       "category": "cronoscalata",
       "location": "Chiaramonte Gulfi",
       "start_date": "2026-11-06",
       "end_date": "2026-11-08",
-      "source_url": "https://www.acisport.it/it/CIVM/calendario-e-risultati/2026/8400/69%5E-salita-dei-monti-iblei---super-civm/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
+      "source_url": "https://salitamontiiblei.it/",
+      "status": "manual"
     },
     {
       "id": "valle-templi-time-attack-2026-11",
@@ -472,7 +472,7 @@
       "location": "Racalmuto",
       "start_date": "2026-11-07",
       "end_date": "2026-11-08",
-      "source_url": "https://autodromovalledeitempli.com/time-attack-2/",
+      "source_url": "https://autodromovalledeitempli.com/events/time-attack-2026/var/ri-5.l-L1/",
       "status": "confirmed"
     },
     {
@@ -494,7 +494,7 @@
       "location": "Racalmuto",
       "start_date": "2026-11-13",
       "end_date": "2026-11-15",
-      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-6.l-L1/",
+      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-7.l-L1/",
       "status": "confirmed"
     },
     {
@@ -522,13 +522,13 @@
     {
       "id": "slalom-monti-iblei-2026",
       "marker": "Slalom Monti Iblei",
-      "title": "1° Slalom dei Monti Iblei SP7 Chiaramonte Gulfi",
+      "title": "Slalom Monti Iblei",
       "category": "slalom",
       "location": "Chiaramonte Gulfi",
       "start_date": "2026-11-15",
       "end_date": "2026-11-15",
-      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
-      "status": "confirmed"
+      "source_url": "https://acelith.com/pages/isola-motorsport",
+      "status": "manual"
     },
     {
       "id": "sole-luna-rotax-2-tempi-rental-2026-11-15",
@@ -586,14 +586,14 @@
       "status": "confirmed"
     },
     {
-      "id": "valle-templi-track-day-auto-2026-11",
+      "id": "valle-templi-hours-run-2026-11",
       "marker": "Autodromo Valle dei Templi",
-      "title": "Track Day Auto",
+      "title": "Hours Run 2026",
       "category": "autodromo",
       "location": "Racalmuto",
-      "start_date": "2026-11-21",
+      "start_date": "2026-11-22",
       "end_date": "2026-11-22",
-      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-4.l-L1/",
+      "source_url": "https://autodromovalledeitempli.com/events/hours-run-2026/var/ri-2.l-L1/",
       "status": "confirmed"
     },
     {
@@ -626,7 +626,7 @@
       "location": "Racalmuto",
       "start_date": "2026-11-28",
       "end_date": "2026-11-29",
-      "source_url": "https://autodromovalledeitempli.com/track-day-2/",
+      "source_url": "https://autodromovalledeitempli.com/events/tumino-moto-24/var/ri-4.l-L1/",
       "status": "confirmed"
     },
     {
@@ -669,7 +669,7 @@
       "category": "autodromo",
       "location": "Racalmuto",
       "start_date": "2026-12-05",
-      "end_date": "2026-12-05",
+      "end_date": "2026-12-06",
       "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-4.l-L1/",
       "status": "confirmed"
     },
@@ -692,7 +692,7 @@
       "location": "Racalmuto",
       "start_date": "2026-12-12",
       "end_date": "2026-12-13",
-      "source_url": "https://autodromovalledeitempli.com/time-attack-2/",
+      "source_url": "https://autodromovalledeitempli.com/events/time-attack-2026/var/ri-6.l-L1/",
       "status": "confirmed"
     },
     {
@@ -737,6 +737,17 @@
       "start_date": "2026-12-19",
       "end_date": "2026-12-19",
       "source_url": "https://scuoladiguidasicura.it/products/guida-sportiva-2026-12-19-pista-del-sole",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-we-can-race-2026-12",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "We Can Race",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "source_url": "https://autodromovalledeitempli.com/events/we-can-race-10/var/ri-3.l-L1/",
       "status": "confirmed"
     },
     {
