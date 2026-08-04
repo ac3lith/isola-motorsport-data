@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-07-28T16:12:21+02:00",
+  "updated_at": "2026-08-04T15:56:19+02:00",
   "events": [
-    {
-      "id": "valle-templi-track-day-moto-2026-08",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Track Day Moto",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "source_url": "https://autodromovalledeitempli.com/",
-      "status": "confirmed"
-    },
-    {
-      "id": "sole-luna-rotax-2-tempi-rental-2026-08-01",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Rotax 2 Tempi Rental",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "concordia-prove-libere-notturne-moto-2026-08-01",
-      "marker": "Autodromo Concordia",
-      "title": "Prove Libere Notturne Moto",
-      "category": "autodromo",
-      "location": "Favara",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "source_url": "https://www.instagram.com/autodromoconcordia/",
-      "status": "confirmed"
-    },
     {
       "id": "rally-tirreno-messina-2026",
       "marker": "Rally Tirreno Messina",
@@ -157,6 +124,17 @@
       "status": "confirmed"
     },
     {
+      "id": "slalom-ucria-manual-2026-09-09",
+      "marker": "Slalom Ucria",
+      "title": "5° Slalom Città di Ucria",
+      "category": "slalom",
+      "location": "Ucria",
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
+      "source_url": "https://www.facebook.com/autoslalomcittadiucria/?locale=it_IT",
+      "status": "manual"
+    },
+    {
       "id": "coppa-nissena-2026",
       "marker": "Coppa Nissena",
       "title": "71ª Coppa Nissena",
@@ -165,6 +143,17 @@
       "start_date": "2026-09-11",
       "end_date": "2026-09-13",
       "source_url": "https://www.acisport.it/it/civm/calendario-e-risultati/2026/8377/71%5E-coppa-nissena/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "sole-luna-ironman-2026-09-12",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Ironman",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
       "status": "confirmed"
     },
     {
@@ -275,6 +264,17 @@
       "start_date": "2026-09-26",
       "end_date": "2026-09-26",
       "source_url": "https://www.circuitovincenzaispica.it/event/sprint-series-v-prova/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-tumino-moto-2026-09",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Tumino Moto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "source_url": "https://autodromovalledeitempli.com/track-day-2/",
       "status": "confirmed"
     },
     {
@@ -421,6 +421,17 @@
       "status": "confirmed"
     },
     {
+      "id": "valle-templi-tumino-moto-2026-10",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Tumino Moto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "source_url": "https://autodromovalledeitempli.com/track-day-2/",
+      "status": "confirmed"
+    },
+    {
       "id": "slalom-babbaurra-2026",
       "marker": "Slalom Babbaurra",
       "title": "5° Slalom Babburra Caltanissetta",
@@ -454,6 +465,17 @@
       "status": "confirmed"
     },
     {
+      "id": "valle-templi-time-attack-2026-11",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Time Attack 2026",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "source_url": "https://autodromovalledeitempli.com/time-attack-2/",
+      "status": "confirmed"
+    },
+    {
       "id": "karting-messina-sprint-sws-2026-11",
       "marker": "Karting Club Messina",
       "title": "Sprint Interprovinciale",
@@ -462,6 +484,17 @@
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-pirata-racing-2026-11",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Pirata Racing Team",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-15",
+      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-6.l-L1/",
       "status": "confirmed"
     },
     {
@@ -520,6 +553,17 @@
       "status": "confirmed"
     },
     {
+      "id": "historic-rally-barocco-ibleo-2026",
+      "marker": "Rally Barocco Ibleo",
+      "title": "2° Historic Rally del Barocco Ibleo",
+      "category": "rally",
+      "location": "Ragusa",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "source_url": "https://www.acisport.it/it/acisport/calendari/11/2026/0/0",
+      "status": "confirmed"
+    },
+    {
       "id": "triscina-sprint-sws-2026-11",
       "marker": "Circuito Internazionale di Triscina",
       "title": "7ª Prova Campionato Sprint SWS Rent Cup",
@@ -542,6 +586,17 @@
       "status": "confirmed"
     },
     {
+      "id": "valle-templi-track-day-auto-2026-11",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Track Day Auto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-4.l-L1/",
+      "status": "confirmed"
+    },
+    {
       "id": "vincenza-ispica-endurance-4h-2026-11",
       "marker": "Circuito Vincenza Ispica",
       "title": "Endurance Series 4H",
@@ -561,6 +616,17 @@
       "start_date": "2026-11-28",
       "end_date": "2026-11-28",
       "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-tumino-moto-2026-11",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Tumino Moto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "source_url": "https://autodromovalledeitempli.com/track-day-2/",
       "status": "confirmed"
     },
     {
@@ -597,6 +663,17 @@
       "status": "confirmed"
     },
     {
+      "id": "valle-templi-track-day-auto-2026-12",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Track Day Auto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-4.l-L1/",
+      "status": "confirmed"
+    },
+    {
       "id": "vincenza-ispica-iron-man-2026-12",
       "marker": "Circuito Vincenza Ispica",
       "title": "Iron Man Series",
@@ -605,6 +682,17 @@
       "start_date": "2026-12-12",
       "end_date": "2026-12-12",
       "source_url": "https://www.circuitovincenzaispica.it/event/iron-man-series/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-time-attack-2026-12",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Time Attack 2026",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "source_url": "https://autodromovalledeitempli.com/time-attack-2/",
       "status": "confirmed"
     },
     {
