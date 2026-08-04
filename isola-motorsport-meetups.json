@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-07-28T16:33:33+02:00",
+  "updated_at": "2026-08-04T15:59:11+02:00",
   "meetups": [
-    {
-      "id": "motoraduno-etna-belpasso-2026",
-      "title": "49° Motoraduno dell’Etna",
-      "location": "Belpasso",
-      "province": "CT",
-      "organizer": "Moto Club Belpasso",
-      "start_date": "2026-07-28",
-      "end_date": "2026-08-02",
-      "source_url": "https://www.fmisicilia.it/49-motoraduno-delletna-6-prova-t-t-s-dal-28-luglio-al-02-agosto/",
-      "status": "confirmed"
-    },
     {
       "id": "vespisti-notte-marsala-2026",
       "title": "I Vespisti della Notte",
@@ -21,6 +10,17 @@
       "start_date": "2026-08-22",
       "end_date": "2026-08-23",
       "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "autogiro-provincia-ragusa-2026",
+      "title": "Autogiro della Provincia di Ragusa",
+      "location": "Ragusa",
+      "province": "RG",
+      "organizer": "Veteran Car Club Ibleo",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
       "status": "confirmed"
     },
     {
@@ -43,6 +43,17 @@
       "start_date": "2026-09-11",
       "end_date": "2026-09-13",
       "source_url": "https://www.500clubitalia.it/etn/20-meeting-etneo-fiat-500/",
+      "status": "confirmed"
+    },
+    {
+      "id": "passeggiata-ante-1945-catania-2026",
+      "title": "Passeggiata in Ante 1945",
+      "location": "Catania",
+      "province": "CT",
+      "organizer": "Veteran Car Club Etneo",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
       "status": "confirmed"
     },
     {
@@ -112,6 +123,17 @@
       "status": "confirmed"
     },
     {
+      "id": "giro-motociclistico-sicilia-2026",
+      "title": "7° Giro Motociclistico di Sicilia",
+      "location": "Trapani–Palermo",
+      "province": "TP/PA",
+      "organizer": "Club Auto e Moto d’Epoca F. Sartarelli",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.clubsartarelli.com/",
+      "status": "confirmed"
+    },
+    {
       "id": "vespa-memorial-buttiglieri-termini-imerese-2026",
       "title": "3° Raduno Nazionale – Memorial Gino Buttiglieri",
       "location": "Termini Imerese",
@@ -123,6 +145,17 @@
       "status": "confirmed"
     },
     {
+      "id": "etnasprint-memorial-di-mauro-2026",
+      "title": "X EtnaSprint – II Memorial Giuseppe Di Mauro",
+      "location": "Catania",
+      "province": "CT",
+      "organizer": "Circolo Veicoli Storici Titani di Trinacria",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
+      "status": "confirmed"
+    },
+    {
       "id": "vespa-raduno-ravanusa-2026",
       "title": "1° Raduno Regionale Turismo Ravanusa",
       "location": "Ravanusa",
@@ -131,6 +164,17 @@
       "start_date": "2026-10-11",
       "end_date": "2026-10-11",
       "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "giro-due-provincie-falde-etna-2026",
+      "title": "Giro delle Due Provincie alle Falde dell’Etna",
+      "location": "Messina",
+      "province": "ME",
+      "organizer": "Automotoclub del Minotauro",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
       "status": "confirmed"
     },
     {
