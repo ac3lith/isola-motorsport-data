@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-08-04T16:13:13+02:00",
+  "updated_at": "2026-08-10T09:10:10+02:00",
   "events": [
-    {
-      "id": "rally-tirreno-messina-2026",
-      "marker": "Rally Tirreno Messina",
-      "title": "23° Rally Tirreno-Messina",
-      "category": "rally",
-      "location": "Messina",
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-09",
-      "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8364/rally-tirreno-%E2%80%93-messina/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
-    },
-    {
-      "id": "pista-del-sole-trofeo-trinacria-2026",
-      "marker": "Pista del Sole",
-      "title": "Trofeo Trinacria 2026 — 1ª Tappa",
-      "category": "kartodromo",
-      "location": "Villasmundo",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "source_url": "https://xracemotorsport.com/en/products/trofeo-trinacria-sicilia-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "concordia-prove-libere-notturne-moto-2026-08-08",
-      "marker": "Autodromo Concordia",
-      "title": "Prove Libere Notturne Moto",
-      "category": "autodromo",
-      "location": "Favara",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-08",
-      "source_url": "https://www.instagram.com/autodromoconcordia/",
-      "status": "confirmed"
-    },
     {
       "id": "slalom-termini-caccamo-2026",
       "marker": "Slalom Termini-Caccamo",
@@ -80,17 +47,6 @@
       "status": "confirmed"
     },
     {
-      "id": "vincenza-ispica-endurance-4h-2026-09",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Endurance Series 4H",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "source_url": "https://www.circuitovincenzaispica.it/event/endurance-series-4h/",
-      "status": "confirmed"
-    },
-    {
       "id": "valle-templi-pirata-racing-2026-09",
       "marker": "Autodromo Valle dei Templi",
       "title": "Pirata Racing Team",
@@ -110,6 +66,17 @@
       "start_date": "2026-09-05",
       "end_date": "2026-09-05",
       "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "vincenza-ispica-endurance-4h-2026-09",
+      "marker": "Circuito Vincenza Ispica",
+      "title": "Endurance Series 4H",
+      "category": "kartodromo",
+      "location": "Ispica",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "source_url": "https://www.circuitovincenzaispica.it/event/endurance-series-4h/",
       "status": "confirmed"
     },
     {
@@ -187,6 +154,17 @@
       "start_date": "2026-09-19",
       "end_date": "2026-09-20",
       "source_url": "https://autodromovalledeitempli.com/events/we-can-race-10/var/ri-2.l-L1/",
+      "status": "confirmed"
+    },
+    {
+      "id": "sole-luna-rotax-2-tempi-rental-2026-09-19",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Rotax 2 Tempi Rental",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
       "status": "confirmed"
     },
     {
