@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-10T09:10:10+02:00",
+  "updated_at": "2026-08-19T19:40:32+02:00",
   "events": [
     {
       "id": "slalom-termini-caccamo-2026",
@@ -44,6 +44,17 @@
       "start_date": "2026-09-04",
       "end_date": "2026-09-06",
       "source_url": "https://www.acisport.it/it/CIVM/calendario-e-risultati/2026/8392/68%5E-monte-erice",
+      "status": "confirmed"
+    },
+    {
+      "id": "monte-erice-historic-2026",
+      "marker": "Cronoscalata Monte Erice",
+      "title": "11° Salita Storica Monte Erice",
+      "category": "cronoscalata",
+      "location": "Erice",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06",
+      "source_url": "https://www.acisport.it/it/CIVSA/calendario-e-risultati/2026/8449/salita-storica-monte-erice/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
       "status": "confirmed"
     },
     {
@@ -110,6 +121,17 @@
       "start_date": "2026-09-11",
       "end_date": "2026-09-13",
       "source_url": "https://www.acisport.it/it/civm/calendario-e-risultati/2026/8377/71%5E-coppa-nissena/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "coppa-nissena-historic-2026",
+      "marker": "Coppa Nissena",
+      "title": "71° Coppa Nissena Historic",
+      "category": "cronoscalata",
+      "location": "Caltanissetta",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.acisport.it/it/acisport/calendari/9/2026/0/0",
       "status": "confirmed"
     },
     {
@@ -209,6 +231,17 @@
       "start_date": "2026-09-25",
       "end_date": "2026-09-27",
       "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8365/tindari-rally/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "tindari-rally-historic-2026",
+      "marker": "Tindari Rally",
+      "title": "11° Historic Tindari Rally",
+      "category": "rally",
+      "location": "Patti",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7506719/11%5E-historic-tindari-rally",
       "status": "confirmed"
     },
     {
@@ -374,6 +407,17 @@
       "start_date": "2026-10-23",
       "end_date": "2026-10-25",
       "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8366/rally-di-taormina/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "rally-taormina-historic-2026",
+      "marker": "Rally di Taormina",
+      "title": "5° Rally di Taormina Historic Legend",
+      "category": "rally",
+      "location": "Taormina",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7506538/5%C2%B0--rally-di-taormina-historic-legend",
       "status": "confirmed"
     },
     {
@@ -619,6 +663,17 @@
       "status": "confirmed"
     },
     {
+      "id": "rally-corleone-historic-2026",
+      "marker": "Rally Città di Corleone",
+      "title": "1° Historic Rally Città di Corleone",
+      "category": "rally",
+      "location": "Corleone",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7504119/1%C2%B0-historic-rally-citta%27-di-corleone",
+      "status": "confirmed"
+    },
+    {
       "id": "triscina-endurance-finale-2026",
       "marker": "Circuito Internazionale di Triscina",
       "title": "Finale Campionato Endurance SWS Rent Cup",
@@ -674,6 +729,17 @@
       "status": "confirmed"
     },
     {
+      "id": "pista-del-sole-guida-sicura-2026",
+      "marker": "Pista del Sole",
+      "title": "Guida Sicura",
+      "category": "kartodromo",
+      "location": "Villasmundo",
+      "start_date": "2026-12-18",
+      "end_date": "2026-12-18",
+      "source_url": "https://scuoladiguidasicura.it/products/guida-sicura-2026-12-18-pista-del-sole",
+      "status": "confirmed"
+    },
+    {
       "id": "concordia-ability-stage-rally-2026-12",
       "marker": "Autodromo Concordia",
       "title": "Ability Stage Rally — 5ª Prova",
@@ -718,6 +784,17 @@
       "status": "confirmed"
     },
     {
+      "id": "pista-del-sole-sport-driving-experience-2026",
+      "marker": "Pista del Sole",
+      "title": "Sport Driving Experience",
+      "category": "kartodromo",
+      "location": "Villasmundo",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "source_url": "https://scuoladiguidasicura.it/products/19-dicembre-2026-sport-driving-experience-pista-del-sole",
+      "status": "confirmed"
+    },
+    {
       "id": "valle-templi-we-can-race-2026-12",
       "marker": "Autodromo Valle dei Templi",
       "title": "We Can Race",
@@ -737,6 +814,28 @@
       "start_date": "2026-12-20",
       "end_date": "2026-12-20",
       "source_url": "https://www.circuitotriscina.com/?1=calendario",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-guida-sportiva-2026",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Guida Sportiva",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "source_url": "https://scuoladiguidasicura.it/products/guida-sportiva-2026-12-20-autodromo-valle-dei-templ",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-sport-driving-experience-2026",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Sport Driving Experience",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "source_url": "https://scuoladiguidasicura.it/products/20-dicembre-2026-sport-driving-experience-autodromo-valle-dei-templi",
       "status": "confirmed"
     }
   ]
