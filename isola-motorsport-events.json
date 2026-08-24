@@ -1,7 +1,29 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T19:40:32+02:00",
+  "updated_at": "2026-08-24T20:47:35+02:00",
   "events": [
+    {
+      "id": "catania-etna-manual-2026-05-10",
+      "marker": "Catania - Etna",
+      "title": "Catania - Etna",
+      "category": "cronoscalata",
+      "location": "Nicolosi",
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "source_url": "https://cronoscalate.it/events/event/49a-catania-etna/",
+      "status": "manual"
+    },
+    {
+      "id": "coppa-val-anapo-sortino-manual-2026-05-24",
+      "marker": "Coppa val d'Anapo Sortino",
+      "title": "Coppa val d'Anapo Sortino",
+      "category": "cronoscalata",
+      "location": "Sortino",
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-24",
+      "source_url": "https://cronoscalate.it/events/event/41a-coppa-val-danapo-sortino/",
+      "status": "manual"
+    },
     {
       "id": "slalom-termini-caccamo-2026",
       "marker": "Slalom Termini-Caccamo",
@@ -96,9 +118,9 @@
       "title": "5° Slalom Città di Ucria",
       "category": "slalom",
       "location": "Ucria",
-      "start_date": "2026-09-06",
+      "start_date": "2026-09-05",
       "end_date": "2026-09-06",
-      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
+      "source_url": "https://acisport.it/it/acisport/news/notizie/94507/iscrizioni-in-corso-al-5%C2%B0-slalom-citt%C3%A0-di-ucria",
       "status": "confirmed"
     },
     {
@@ -165,6 +187,28 @@
       "start_date": "2026-09-13",
       "end_date": "2026-09-13",
       "source_url": "https://autodromovalledeitempli.com/events/hours-run-2026/var/ri-1.l-L1/",
+      "status": "confirmed"
+    },
+    {
+      "id": "pergusa-guida-sportiva-2026-09-13",
+      "marker": "Autodromo di Pergusa",
+      "title": "Guida Sportiva",
+      "category": "autodromo",
+      "location": "Pergusa",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://scuoladiguidasicura.it/products/13-settembre-autodromo-di-pergusa",
+      "status": "confirmed"
+    },
+    {
+      "id": "pergusa-sport-driving-experience-2026-09-13",
+      "marker": "Autodromo di Pergusa",
+      "title": "Sport Driving Experience",
+      "category": "autodromo",
+      "location": "Pergusa",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://scuoladiguidasicura.it/products/13-settembre-2026-sport-driving-experience-autodromo-di-pergusa",
       "status": "confirmed"
     },
     {
@@ -605,6 +649,17 @@
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
+      "status": "confirmed"
+    },
+    {
+      "id": "valle-templi-track-day-auto-2026-11",
+      "marker": "Autodromo Valle dei Templi",
+      "title": "Track Day Auto",
+      "category": "autodromo",
+      "location": "Racalmuto",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-4.l-L1/",
       "status": "confirmed"
     },
     {
