@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-08-19T19:41:57+02:00",
+  "updated_at": "2026-08-26T19:18:37+02:00",
   "meetups": [
-    {
-      "id": "vespisti-notte-marsala-2026",
-      "title": "I Vespisti della Notte",
-      "location": "Marsala",
-      "province": "TP",
-      "organizer": "Vespa Club Marsala",
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-23",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
     {
       "id": "autogiro-provincia-ragusa-2026",
       "title": "Autogiro della Provincia di Ragusa",
@@ -21,6 +10,17 @@
       "start_date": "2026-09-04",
       "end_date": "2026-09-06",
       "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
+      "status": "confirmed"
+    },
+    {
+      "id": "raduno-auto-epoca-giulio-masetti-collesano-2026",
+      "title": "Raduno di auto d’epoca – Dedicato a Giulio Masetti",
+      "location": "Collesano",
+      "province": "PA",
+      "organizer": "Museo della Targa Florio e Commissione Veicoli Storici ACI Palermo",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-05",
+      "source_url": "https://www.latargaflorio.it/?p=2498",
       "status": "confirmed"
     },
     {
@@ -101,6 +101,17 @@
       "status": "confirmed"
     },
     {
+      "id": "raduno-club-alfisti-etnei-collesano-2026",
+      "title": "Raduno Club Alfisti Etnei",
+      "location": "Collesano",
+      "province": "PA",
+      "organizer": "Club Alfisti Etnei",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "source_url": "https://www.latargaflorio.it/?p=2508",
+      "status": "confirmed"
+    },
+    {
       "id": "vespa-memorial-bonura-san-vito-lo-capo-2026",
       "title": "3° Memorial Giuseppe Bonura",
       "location": "San Vito Lo Capo",
@@ -109,6 +120,17 @@
       "start_date": "2026-09-26",
       "end_date": "2026-09-27",
       "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "mostra-scambio-auto-moto-epoca-acquedolci-2026",
+      "title": "1ª Mostra Scambio – Ricambi auto e moto d’epoca",
+      "location": "Acquedolci",
+      "province": "ME",
+      "organizer": "Museo della 500 sui Nebrodi APS",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.museodella500.com/post/mostra-scambio-ricambi-auto-moto-epoca-acquedolci-2026",
       "status": "confirmed"
     },
     {
