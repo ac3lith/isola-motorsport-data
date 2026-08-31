@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-24T20:47:35+02:00",
+  "updated_at": "2026-08-31T17:32:34+02:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -36,28 +36,6 @@
       "status": "manual"
     },
     {
-      "id": "sole-luna-rotax-2-tempi-rental-2026-08-29",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Rotax 2 Tempi Rental",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-08-29",
-      "end_date": "2026-08-29",
-      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "concordia-ability-stage-rally-2026-08",
-      "marker": "Autodromo Concordia",
-      "title": "Ability Stage Rally — 3ª Prova Notturna",
-      "category": "autodromo",
-      "location": "Favara",
-      "start_date": "2026-08-29",
-      "end_date": "2026-08-29",
-      "source_url": "https://www.instagram.com/autodromoconcordia/",
-      "status": "confirmed"
-    },
-    {
       "id": "monte-erice-2026",
       "marker": "Cronoscalata Monte Erice",
       "title": "68ª Monte Erice",
@@ -88,6 +66,17 @@
       "start_date": "2026-09-04",
       "end_date": "2026-09-06",
       "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-5.l-L1/",
+      "status": "confirmed"
+    },
+    {
+      "id": "calandra-campionato-opes-2026-09",
+      "marker": "Kartodromo Calandra",
+      "title": "4ª Tappa Campionato OPES 2026",
+      "category": "kartodromo",
+      "location": "Nicosia",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "source_url": "https://www.facebook.com/kartodromocalandra2023",
       "status": "confirmed"
     },
     {
@@ -176,6 +165,17 @@
       "start_date": "2026-09-12",
       "end_date": "2026-09-13",
       "source_url": "https://www.acisport.it/it/CIZ/calendario-e-risultati/2026/8528/coppa-italia-di-zona-6---minoa-%28ag%29/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "status": "confirmed"
+    },
+    {
+      "id": "coppa-nissena-parata-2026",
+      "marker": "Coppa Nissena",
+      "title": "Parata 71ª Coppa Nissena",
+      "category": "cronoscalata",
+      "location": "Caltanissetta",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7527748/parata-71%C2%B0-coppa-nissena",
       "status": "confirmed"
     },
     {
@@ -364,6 +364,17 @@
       "end_date": "2026-10-04",
       "source_url": "https://cronoscalate.it/events/event/6a-cronoscalata-scordia-militello/",
       "status": "manual"
+    },
+    {
+      "id": "slalom-agro-ericino-2026",
+      "marker": "Slalom dell’Agro Ericino",
+      "title": "24° Slalom dell’Agro Ericino",
+      "category": "slalom",
+      "location": "Valderice",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7528519/24%2A-slalom-dell%27agroericino",
+      "status": "confirmed"
     },
     {
       "id": "valle-templi-pirata-racing-2026-10",
