@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T17:32:34+02:00",
+  "updated_at": "2026-09-07T19:10:35+02:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -34,83 +34,6 @@
       "end_date": "2026-08-09",
       "source_url": "https://acelith.com/pages/isola-motorsport",
       "status": "manual"
-    },
-    {
-      "id": "monte-erice-2026",
-      "marker": "Cronoscalata Monte Erice",
-      "title": "68ª Monte Erice",
-      "category": "cronoscalata",
-      "location": "Erice",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "source_url": "https://www.acisport.it/it/CIVM/calendario-e-risultati/2026/8392/68%5E-monte-erice",
-      "status": "confirmed"
-    },
-    {
-      "id": "monte-erice-historic-2026",
-      "marker": "Cronoscalata Monte Erice",
-      "title": "11° Salita Storica Monte Erice",
-      "category": "cronoscalata",
-      "location": "Erice",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "source_url": "https://www.acisport.it/it/CIVSA/calendario-e-risultati/2026/8449/salita-storica-monte-erice/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-pirata-racing-2026-09",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Pirata Racing Team",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-5.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "calandra-campionato-opes-2026-09",
-      "marker": "Kartodromo Calandra",
-      "title": "4ª Tappa Campionato OPES 2026",
-      "category": "kartodromo",
-      "location": "Nicosia",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06",
-      "source_url": "https://www.facebook.com/kartodromocalandra2023",
-      "status": "confirmed"
-    },
-    {
-      "id": "sole-luna-endurance-7h-sws-2026",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Endurance 7H SWS Sole Luna",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-05",
-      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "vincenza-ispica-endurance-4h-2026-09",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Endurance Series 4H",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-05",
-      "source_url": "https://www.circuitovincenzaispica.it/event/endurance-series-4h/",
-      "status": "confirmed"
-    },
-    {
-      "id": "slalom-ucria-2026",
-      "marker": "Slalom Ucria",
-      "title": "5° Slalom Città di Ucria",
-      "category": "slalom",
-      "location": "Ucria",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06",
-      "source_url": "https://acisport.it/it/acisport/news/notizie/94507/iscrizioni-in-corso-al-5%C2%B0-slalom-citt%C3%A0-di-ucria",
-      "status": "confirmed"
     },
     {
       "id": "slalom-ucria-manual-2026-09-09",
