@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-08-26T19:18:37+02:00",
+  "updated_at": "2026-09-08T14:46:22+02:00",
   "meetups": [
-    {
-      "id": "autogiro-provincia-ragusa-2026",
-      "title": "Autogiro della Provincia di Ragusa",
-      "location": "Ragusa",
-      "province": "RG",
-      "organizer": "Veteran Car Club Ibleo",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-06",
-      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-auto-epoca-giulio-masetti-collesano-2026",
-      "title": "Raduno di auto d’epoca – Dedicato a Giulio Masetti",
-      "location": "Collesano",
-      "province": "PA",
-      "organizer": "Museo della Targa Florio e Commissione Veicoli Storici ACI Palermo",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-05",
-      "source_url": "https://www.latargaflorio.it/?p=2498",
-      "status": "confirmed"
-    },
-    {
-      "id": "sull-etna-col-px-2026",
-      "title": "Sull’Etna col PX",
-      "location": "Etna",
-      "province": "CT",
-      "organizer": "Vespa Club Etna",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
     {
       "id": "meeting-etneo-fiat-500-2026",
       "title": "20° Meeting Etneo Fiat 500",
@@ -79,6 +46,17 @@
       "status": "confirmed"
     },
     {
+      "id": "vie-sale-motori-trapani-2026",
+      "title": "Moto Passeggiata “Le vie del sale e dei motori”",
+      "location": "Trapani",
+      "province": "TP",
+      "organizer": "Associazione Le Vie del Sale APS",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "source_url": "https://servizi-trapani.e-pal.it/L190/atto/lista/544518?activePage=1",
+      "status": "confirmed"
+    },
+    {
       "id": "extreme-riders-curve-gusto-2026",
       "title": "Motoraduno Extreme Riders “Curve & Gusto”",
       "location": "Ragusa",
@@ -101,6 +79,17 @@
       "status": "confirmed"
     },
     {
+      "id": "fiat-500-caltagirone-2026",
+      "title": "13° Raduno Città di Caltagirone",
+      "location": "Caltagirone",
+      "province": "CT",
+      "organizer": "Coordinamento Caltagirone – Fiat 500 Club Italia",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "source_url": "https://www.500clubitalia.it/etn/13-raduno-citta-di-caltagirone/",
+      "status": "confirmed"
+    },
+    {
       "id": "raduno-club-alfisti-etnei-collesano-2026",
       "title": "Raduno Club Alfisti Etnei",
       "location": "Collesano",
@@ -109,6 +98,17 @@
       "start_date": "2026-09-20",
       "end_date": "2026-09-20",
       "source_url": "https://www.latargaflorio.it/?p=2508",
+      "status": "confirmed"
+    },
+    {
+      "id": "sport-city-day-fiat-500-santa-caterina-villarmosa-2026",
+      "title": "Sport City Day 2026 – Fiat 500",
+      "location": "Santa Caterina Villarmosa",
+      "province": "CL",
+      "organizer": "Coordinamento Santa Caterina Villarmosa – Fiat 500 Club Italia",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "source_url": "https://www.500clubitalia.it/etn/sport-city-day-2026/",
       "status": "confirmed"
     },
     {
@@ -131,6 +131,17 @@
       "start_date": "2026-09-26",
       "end_date": "2026-09-27",
       "source_url": "https://www.museodella500.com/post/mostra-scambio-ricambi-auto-moto-epoca-acquedolci-2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "giornata-nazionale-veicolo-epoca-palermo-2026",
+      "title": "Giornata Nazionale del Veicolo d’Epoca",
+      "location": "Palermo",
+      "province": "PA",
+      "organizer": "Coordinamento Palermo – Fiat 500 Club Italia",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.500clubitalia.it/etn/la-giornata-nazionale-del-veicolo-depoca/",
       "status": "confirmed"
     },
     {
@@ -197,6 +208,17 @@
       "start_date": "2026-10-17",
       "end_date": "2026-10-18",
       "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
+      "status": "confirmed"
+    },
+    {
+      "id": "memorial-toto-bruno-fiat-500-2026",
+      "title": "Memorial Totò Bruno",
+      "location": "Santa Caterina Villarmosa",
+      "province": "CL",
+      "organizer": "Coordinamento Santa Caterina Villarmosa – Fiat 500 Club Italia",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "source_url": "https://www.500clubitalia.it/etn/memorial-toto-bruno/",
       "status": "confirmed"
     },
     {
