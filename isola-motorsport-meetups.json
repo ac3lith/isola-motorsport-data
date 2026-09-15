@@ -1,70 +1,15 @@
 {
-  "updated_at": "2026-09-08T14:46:22+02:00",
+  "updated_at": "2026-09-15T15:21:39+02:00",
   "meetups": [
     {
-      "id": "meeting-etneo-fiat-500-2026",
-      "title": "20° Meeting Etneo Fiat 500",
-      "location": "Catania",
-      "province": "CT",
-      "organizer": "Fiat 500 Club Italia",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.500clubitalia.it/etn/20-meeting-etneo-fiat-500/",
-      "status": "confirmed"
-    },
-    {
-      "id": "passeggiata-ante-1945-catania-2026",
-      "title": "Passeggiata in Ante 1945",
-      "location": "Catania",
-      "province": "CT",
-      "organizer": "Veteran Car Club Etneo",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
-      "status": "confirmed"
-    },
-    {
-      "id": "vespa-raduno-niscemi-2026",
-      "title": "13° Raduno Nazionale Città di Niscemi",
-      "location": "Niscemi",
-      "province": "CL",
-      "organizer": "Vespa Club Niscemi",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "fiat-500-castellammare-golfo-2026",
-      "title": "3° Raduno Città di Castellammare del Golfo",
-      "location": "Castellammare del Golfo",
-      "province": "TP",
-      "organizer": "Coordinamento Alcamo – Fiat 500 Club Italia",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.500clubitalia.it/etn/3-raduno-citta-di-castellammare-del-golfo/",
-      "status": "confirmed"
-    },
-    {
-      "id": "vie-sale-motori-trapani-2026",
-      "title": "Moto Passeggiata “Le vie del sale e dei motori”",
-      "location": "Trapani",
-      "province": "TP",
-      "organizer": "Associazione Le Vie del Sale APS",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "source_url": "https://servizi-trapani.e-pal.it/L190/atto/lista/544518?activePage=1",
-      "status": "confirmed"
-    },
-    {
       "id": "extreme-riders-curve-gusto-2026",
-      "title": "Motoraduno Extreme Riders “Curve & Gusto”",
-      "location": "Ragusa",
+      "title": "1° Motoraduno Nazionale Extreme Riders “Curve & Gusto”",
+      "location": "Marina di Ragusa",
       "province": "RG",
       "organizer": "Moto Club Extreme Riders",
       "start_date": "2026-09-19",
       "end_date": "2026-09-20",
-      "source_url": "https://www.federmoto.it/wp-content/uploads/sites/2/2025/11/Calendario-mototurismo-2026.pdf",
+      "source_url": "https://www.fmisicilia.it/arriva-il-1-motoraduno-nazionale-extreme-riders/",
       "status": "confirmed"
     },
     {
@@ -156,6 +101,28 @@
       "status": "confirmed"
     },
     {
+      "id": "metti-in-moto-il-dono-etna-2026",
+      "title": "Metti in Moto il Dono 2026",
+      "location": "Tremestieri Etneo–Nicolosi–Paternò",
+      "province": "CT",
+      "organizer": "ADVS FIDAS Catania",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.advsfidascatania.it/novita/metti-in-moto-il-dono-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "tributo-porsche-maglioli-collesano-2026",
+      "title": "Tributo Porsche per Umberto Maglioli e la prima vittoria alla Targa Florio",
+      "location": "Collesano",
+      "province": "PA",
+      "organizer": "Porsche Club Trinacria",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "source_url": "https://www.latargaflorio.it/?p=2552",
+      "status": "confirmed"
+    },
+    {
       "id": "giro-motociclistico-sicilia-2026",
       "title": "7° Giro Motociclistico di Sicilia",
       "location": "Trapani–Palermo",
@@ -175,6 +142,17 @@
       "start_date": "2026-10-03",
       "end_date": "2026-10-04",
       "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "raduno-fif-rosolini-2026",
+      "title": "2° Raduno F.I.F. Rosolini 4x4",
+      "location": "Rosolini",
+      "province": "SR",
+      "organizer": "A.S.D. Rosolini 4x4",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.fif4x4.it/raduni/20-raduno-fif-2026",
       "status": "confirmed"
     },
     {
@@ -200,6 +178,17 @@
       "status": "confirmed"
     },
     {
+      "id": "ruote-nella-storia-caltanissetta-gela-2026",
+      "title": "Ruote nella Storia – Caltanissetta–Gela",
+      "location": "Caltanissetta–Gela",
+      "province": "CL",
+      "organizer": "Automobile Club Caltanissetta",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "source_url": "https://comune.caltanissetta.it/index.php/it/news/caltanissetta-svela-la-sua-71a-coppa-nissena",
+      "status": "confirmed"
+    },
+    {
       "id": "giro-due-provincie-falde-etna-2026",
       "title": "Giro delle Due Provincie alle Falde dell’Etna",
       "location": "Messina",
@@ -219,6 +208,17 @@
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "source_url": "https://www.500clubitalia.it/etn/memorial-toto-bruno/",
+      "status": "confirmed"
+    },
+    {
+      "id": "raduno-fif-lions-nebrodi-capo-orlando-2026",
+      "title": "6° Raduno Nazionale F.I.F. – 3° Memorial Gabriele Di Simone",
+      "location": "Capo d’Orlando",
+      "province": "ME",
+      "organizer": "A.S.D. Club Lions Nebrodi 4x4",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "source_url": "https://www.fif4x4.it/raduni/60-raduno-nazionale-f-i-f-30-memorial-gabriele-di-simone-2026",
       "status": "confirmed"
     },
     {
