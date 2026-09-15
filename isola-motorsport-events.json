@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-07T19:10:35+02:00",
+  "updated_at": "2026-09-15T15:24:42+02:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -45,94 +45,6 @@
       "end_date": "2026-09-09",
       "source_url": "https://www.facebook.com/autoslalomcittadiucria/?locale=it_IT",
       "status": "manual"
-    },
-    {
-      "id": "coppa-nissena-2026",
-      "marker": "Coppa Nissena",
-      "title": "71ª Coppa Nissena",
-      "category": "cronoscalata",
-      "location": "Caltanissetta",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.acisport.it/it/civm/calendario-e-risultati/2026/8377/71%5E-coppa-nissena/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
-    },
-    {
-      "id": "coppa-nissena-historic-2026",
-      "marker": "Coppa Nissena",
-      "title": "71° Coppa Nissena Historic",
-      "category": "cronoscalata",
-      "location": "Caltanissetta",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.acisport.it/it/acisport/calendari/9/2026/0/0",
-      "status": "confirmed"
-    },
-    {
-      "id": "karting-messina-trofeo-trinacria-2026",
-      "marker": "Karting Club Messina",
-      "title": "Trofeo Trinacria 2026 — 2ª Tappa",
-      "category": "kartodromo",
-      "location": "Messina",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "source_url": "https://xracemotorsport.com/en/products/trofeo-trinacria-sicilia-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "coppa-italia-zona-minoa-2026",
-      "marker": "Kartodromo Minoa",
-      "title": "Coppa Italia di Zona 6 - Minoa (AG)",
-      "category": "kartodromo",
-      "location": "Eraclea Minoa",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.acisport.it/it/CIZ/calendario-e-risultati/2026/8528/coppa-italia-di-zona-6---minoa-%28ag%29/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
-    },
-    {
-      "id": "coppa-nissena-parata-2026",
-      "marker": "Coppa Nissena",
-      "title": "Parata 71ª Coppa Nissena",
-      "category": "cronoscalata",
-      "location": "Caltanissetta",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7527748/parata-71%C2%B0-coppa-nissena",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-hours-run-2026-09",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Hours Run 2026",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "source_url": "https://autodromovalledeitempli.com/events/hours-run-2026/var/ri-1.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "pergusa-guida-sportiva-2026-09-13",
-      "marker": "Autodromo di Pergusa",
-      "title": "Guida Sportiva",
-      "category": "autodromo",
-      "location": "Pergusa",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "source_url": "https://scuoladiguidasicura.it/products/13-settembre-autodromo-di-pergusa",
-      "status": "confirmed"
-    },
-    {
-      "id": "pergusa-sport-driving-experience-2026-09-13",
-      "marker": "Autodromo di Pergusa",
-      "title": "Sport Driving Experience",
-      "category": "autodromo",
-      "location": "Pergusa",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "source_url": "https://scuoladiguidasicura.it/products/13-settembre-2026-sport-driving-experience-autodromo-di-pergusa",
-      "status": "confirmed"
     },
     {
       "id": "valle-templi-we-can-race-2026-09",
@@ -287,6 +199,17 @@
       "end_date": "2026-10-04",
       "source_url": "https://cronoscalate.it/events/event/6a-cronoscalata-scordia-militello/",
       "status": "manual"
+    },
+    {
+      "id": "villarosa-trofeo-karting-sicilia-2026-10-04",
+      "marker": "Kartodromo di Villarosa",
+      "title": "8ª Prova Trofeo Karting Sicilia",
+      "category": "kartodromo",
+      "location": "Villarosa",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.kartingsicilia.com/box2026/Calendario2026.pdf",
+      "status": "confirmed"
     },
     {
       "id": "slalom-agro-ericino-2026",
@@ -484,6 +407,17 @@
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
+      "status": "confirmed"
+    },
+    {
+      "id": "sole-luna-finale-trofeo-karting-sicilia-2026",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Finale Trofeo Karting Sicilia",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "source_url": "https://www.kartingsicilia.com/box2026/Calendario2026.pdf",
       "status": "confirmed"
     },
     {
