@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-09-15T15:21:39+02:00",
+  "updated_at": "2026-09-22T18:08:25+02:00",
   "meetups": [
-    {
-      "id": "extreme-riders-curve-gusto-2026",
-      "title": "1° Motoraduno Nazionale Extreme Riders “Curve & Gusto”",
-      "location": "Marina di Ragusa",
-      "province": "RG",
-      "organizer": "Moto Club Extreme Riders",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "source_url": "https://www.fmisicilia.it/arriva-il-1-motoraduno-nazionale-extreme-riders/",
-      "status": "confirmed"
-    },
-    {
-      "id": "vespatizzati-canicatti-2026",
-      "title": "Adesso tocca a noi – Vespatizzati Canicattì",
-      "location": "Canicattì",
-      "province": "AG",
-      "organizer": "Vespa Club Canicattì",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "fiat-500-caltagirone-2026",
-      "title": "13° Raduno Città di Caltagirone",
-      "location": "Caltagirone",
-      "province": "CT",
-      "organizer": "Coordinamento Caltagirone – Fiat 500 Club Italia",
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "source_url": "https://www.500clubitalia.it/etn/13-raduno-citta-di-caltagirone/",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-club-alfisti-etnei-collesano-2026",
-      "title": "Raduno Club Alfisti Etnei",
-      "location": "Collesano",
-      "province": "PA",
-      "organizer": "Club Alfisti Etnei",
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "source_url": "https://www.latargaflorio.it/?p=2508",
-      "status": "confirmed"
-    },
-    {
-      "id": "sport-city-day-fiat-500-santa-caterina-villarmosa-2026",
-      "title": "Sport City Day 2026 – Fiat 500",
-      "location": "Santa Caterina Villarmosa",
-      "province": "CL",
-      "organizer": "Coordinamento Santa Caterina Villarmosa – Fiat 500 Club Italia",
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "source_url": "https://www.500clubitalia.it/etn/sport-city-day-2026/",
-      "status": "confirmed"
-    },
     {
       "id": "vespa-memorial-bonura-san-vito-lo-capo-2026",
       "title": "3° Memorial Giuseppe Bonura",
@@ -134,6 +79,17 @@
       "status": "confirmed"
     },
     {
+      "id": "gran-premio-la-motta-nicosia-2026",
+      "title": "Gran Premio La Motta 2026 – Festival del Motorismo Storico Mediterraneo",
+      "location": "Nicosia",
+      "province": "EN",
+      "organizer": "Associazione Veicoli Storici Nicosia",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "source_url": "https://www.targapedia.com/news/item/946-gran-premio-la-motta-2026",
+      "status": "confirmed"
+    },
+    {
       "id": "vespa-memorial-buttiglieri-termini-imerese-2026",
       "title": "3° Raduno Nazionale – Memorial Gino Buttiglieri",
       "location": "Termini Imerese",
@@ -186,6 +142,17 @@
       "start_date": "2026-10-11",
       "end_date": "2026-10-11",
       "source_url": "https://comune.caltanissetta.it/index.php/it/news/caltanissetta-svela-la-sua-71a-coppa-nissena",
+      "status": "confirmed"
+    },
+    {
+      "id": "ruote-nella-storia-sortino-2026",
+      "title": "Ruote nella Storia – Sortino Città del miele",
+      "location": "Siracusa–Sortino",
+      "province": "SR",
+      "organizer": "Automobile Club Siracusa",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "source_url": "https://siracusa.aci.it/Raduno-Ruote-nella-Storia-Sortino-Citta-del-miele-17-ottobre-2026",
       "status": "confirmed"
     },
     {
