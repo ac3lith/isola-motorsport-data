@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T18:10:23+02:00",
+  "updated_at": "2026-09-29T14:49:39+02:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -56,72 +56,6 @@
       "end_date": "2026-09-20",
       "source_url": "https://www.acisport.it/it/slalom/calendario-e-risultati/2025/8236/slalom-citt%C3%A0-di-avola/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
       "status": "manual"
-    },
-    {
-      "id": "concordia-emozione-corsa-2026-09",
-      "marker": "Autodromo Concordia",
-      "title": "Emozione Corsa",
-      "category": "autodromo",
-      "location": "Agrigento",
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-27",
-      "source_url": "https://emozionecorsa.com/evento/concordia-25-26-27-settembre-2026-guida-sicura/",
-      "status": "confirmed"
-    },
-    {
-      "id": "tindari-rally-2026",
-      "marker": "Tindari Rally",
-      "title": "11° Tindari Rally",
-      "category": "rally",
-      "location": "Patti",
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8365/tindari-rally/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
-      "status": "confirmed"
-    },
-    {
-      "id": "tindari-rally-historic-2026",
-      "marker": "Tindari Rally",
-      "title": "11° Historic Tindari Rally",
-      "category": "rally",
-      "location": "Patti",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7506719/11%5E-historic-tindari-rally",
-      "status": "confirmed"
-    },
-    {
-      "id": "triscina-sprint-sws-2026-09",
-      "marker": "Circuito Internazionale di Triscina",
-      "title": "5ª Prova Campionato Sprint SWS Rent Cup",
-      "category": "kartodromo",
-      "location": "Triscina",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "source_url": "https://www.circuitotriscina.com/?1=calendario",
-      "status": "confirmed"
-    },
-    {
-      "id": "vincenza-ispica-sprint-series-v-2026",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Sprint Series V prova",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "source_url": "https://www.circuitovincenzaispica.it/event/sprint-series-v-prova/",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-tumino-moto-2026-09",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Tumino Moto",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "source_url": "https://autodromovalledeitempli.com/events/tumino-moto-24/var/ri-2.l-L1/",
-      "status": "confirmed"
     },
     {
       "id": "slalom-citta-marmi-custonaci-2026",
@@ -232,6 +166,17 @@
       "end_date": "2026-10-11",
       "source_url": "https://www.topcompetition.it/torregrotta/it/",
       "status": "manual"
+    },
+    {
+      "id": "targa-florio-classica-2026",
+      "marker": "Targa Florio Rally",
+      "title": "Targa Florio Classica",
+      "category": "rally",
+      "location": "Palermo",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-18",
+      "source_url": "https://targa-florio.it/targaflorioclassica/programma/",
+      "status": "confirmed"
     },
     {
       "id": "valle-templi-track-day-auto-2026-10",
