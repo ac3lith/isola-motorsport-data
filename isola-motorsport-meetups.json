@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-09-22T18:08:25+02:00",
+  "updated_at": "2026-09-29T14:47:15+02:00",
   "meetups": [
-    {
-      "id": "vespa-memorial-bonura-san-vito-lo-capo-2026",
-      "title": "3° Memorial Giuseppe Bonura",
-      "location": "San Vito Lo Capo",
-      "province": "TP",
-      "organizer": "Vespa Club San Vito Lo Capo",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "mostra-scambio-auto-moto-epoca-acquedolci-2026",
-      "title": "1ª Mostra Scambio – Ricambi auto e moto d’epoca",
-      "location": "Acquedolci",
-      "province": "ME",
-      "organizer": "Museo della 500 sui Nebrodi APS",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.museodella500.com/post/mostra-scambio-ricambi-auto-moto-epoca-acquedolci-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "giornata-nazionale-veicolo-epoca-palermo-2026",
-      "title": "Giornata Nazionale del Veicolo d’Epoca",
-      "location": "Palermo",
-      "province": "PA",
-      "organizer": "Coordinamento Palermo – Fiat 500 Club Italia",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.500clubitalia.it/etn/la-giornata-nazionale-del-veicolo-depoca/",
-      "status": "confirmed"
-    },
-    {
-      "id": "fiat-500-contea-modica-2026",
-      "title": "13° Raduno Città della Contea Modica",
-      "location": "Modica",
-      "province": "RG",
-      "organizer": "Coordinamento Modica – Fiat 500 Club Italia",
-      "start_date": "2026-09-27",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.500clubitalia.it/etn/13-raduno-citta-della-contea-modica/",
-      "status": "confirmed"
-    },
-    {
-      "id": "metti-in-moto-il-dono-etna-2026",
-      "title": "Metti in Moto il Dono 2026",
-      "location": "Tremestieri Etneo–Nicolosi–Paternò",
-      "province": "CT",
-      "organizer": "ADVS FIDAS Catania",
-      "start_date": "2026-09-27",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.advsfidascatania.it/novita/metti-in-moto-il-dono-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "tributo-porsche-maglioli-collesano-2026",
-      "title": "Tributo Porsche per Umberto Maglioli e la prima vittoria alla Targa Florio",
-      "location": "Collesano",
-      "province": "PA",
-      "organizer": "Porsche Club Trinacria",
-      "start_date": "2026-09-27",
-      "end_date": "2026-09-27",
-      "source_url": "https://www.latargaflorio.it/?p=2552",
-      "status": "confirmed"
-    },
     {
       "id": "giro-motociclistico-sicilia-2026",
       "title": "7° Giro Motociclistico di Sicilia",
@@ -79,6 +13,17 @@
       "status": "confirmed"
     },
     {
+      "id": "tourist-raid-acireale-2026",
+      "title": "37° Tourist Raid",
+      "location": "Acireale",
+      "province": "CT",
+      "organizer": "Club 4WD Acireale",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "source_url": "https://www.fif4x4.it/raduni/370-tourist-raid-2026",
+      "status": "confirmed"
+    },
+    {
       "id": "gran-premio-la-motta-nicosia-2026",
       "title": "Gran Premio La Motta 2026 – Festival del Motorismo Storico Mediterraneo",
       "location": "Nicosia",
@@ -87,6 +32,17 @@
       "start_date": "2026-10-03",
       "end_date": "2026-10-04",
       "source_url": "https://www.targapedia.com/news/item/946-gran-premio-la-motta-2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "memorial-daniele-paladino-gravina-catania-2026",
+      "title": "4° Memorial Daniele Paladino – Raduno auto, moto e tuning",
+      "location": "Gravina di Catania",
+      "province": "CT",
+      "organizer": "Giuseppe Paladino e Orazio Puglisi",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "source_url": "https://comune.gravina-di-catania.ct.it/it/news/2046074",
       "status": "confirmed"
     },
     {
@@ -134,6 +90,17 @@
       "status": "confirmed"
     },
     {
+      "id": "raduno-alfa-romeo-acate-2026",
+      "title": "57° Raduno Alfa Romeo – 3ª Tappa Tour 2026",
+      "location": "Acate",
+      "province": "RG",
+      "organizer": "Sicily Alfa Club",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "source_url": "https://www.sicilyalfaclub.it/57-raduno-alfa-romeo-ad-acate/",
+      "status": "confirmed"
+    },
+    {
       "id": "ruote-nella-storia-caltanissetta-gela-2026",
       "title": "Ruote nella Storia – Caltanissetta–Gela",
       "location": "Caltanissetta–Gela",
@@ -142,6 +109,17 @@
       "start_date": "2026-10-11",
       "end_date": "2026-10-11",
       "source_url": "https://comune.caltanissetta.it/index.php/it/news/caltanissetta-svela-la-sua-71a-coppa-nissena",
+      "status": "confirmed"
+    },
+    {
+      "id": "tatanka-raid-scordia-2026",
+      "title": "Tatanka Raid 4x4",
+      "location": "Scordia",
+      "province": "CT",
+      "organizer": "Trinacria Team 4x4",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "source_url": "https://www.fif4x4.it/raduni/tatanka-raid-2026",
       "status": "confirmed"
     },
     {
@@ -175,6 +153,28 @@
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "source_url": "https://www.500clubitalia.it/etn/memorial-toto-bruno/",
+      "status": "confirmed"
+    },
+    {
+      "id": "raduno-auto-epoca-roccapalumba-2026",
+      "title": "Raduno di Auto d’Epoca – Opuntia Ficus-Indica Fest",
+      "location": "Roccapalumba",
+      "province": "PA",
+      "organizer": "Comune di Roccapalumba",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "source_url": "https://roccapalumba.comune.digital/social-news/i/f99e9f4be12ae736dde1e7df3b10d0e4/opuntia-ficus-indica-fest-2026-occasione-della-xxvi-opuntia-ficus-indica-fest-roccapalumba-ospitera-un-imperdibi",
+      "status": "confirmed"
+    },
+    {
+      "id": "fiat-500-tesori-buccheri-2026",
+      "title": "1° Raduno Fiat 500 “I Tesori di Buccheri”",
+      "location": "Buccheri",
+      "province": "SR",
+      "organizer": "Fiat 500 Club Italia",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "source_url": "https://www.500clubitalia.it/etn/1-raduno-fiat-500-i-tesori-di-buccheri/",
       "status": "confirmed"
     },
     {
