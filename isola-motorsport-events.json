@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T14:49:39+02:00",
+  "updated_at": "2026-10-06T14:54:48+02:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -69,28 +69,6 @@
       "status": "manual"
     },
     {
-      "id": "vincenza-ispica-iron-man-v-2026",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Iron Man Series V prova",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "source_url": "https://www.circuitovincenzaispica.it/event/iron-man-series-v-prova/",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-time-attack-2026-10",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Time Attack 2026",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "source_url": "https://autodromovalledeitempli.com/events/time-attack-2026/var/ri-4.l-L1/",
-      "status": "confirmed"
-    },
-    {
       "id": "scordia-militello-2026",
       "marker": "Scordia - Militello",
       "title": "Scordia - Militello",
@@ -100,28 +78,6 @@
       "end_date": "2026-10-04",
       "source_url": "https://cronoscalate.it/events/event/6a-cronoscalata-scordia-militello/",
       "status": "manual"
-    },
-    {
-      "id": "villarosa-trofeo-karting-sicilia-2026-10-04",
-      "marker": "Kartodromo di Villarosa",
-      "title": "8ª Prova Trofeo Karting Sicilia",
-      "category": "kartodromo",
-      "location": "Villarosa",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.kartingsicilia.com/box2026/Calendario2026.pdf",
-      "status": "confirmed"
-    },
-    {
-      "id": "slalom-agro-ericino-2026",
-      "marker": "Slalom dell’Agro Ericino",
-      "title": "24° Slalom dell’Agro Ericino",
-      "category": "slalom",
-      "location": "Valderice",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7528519/24%2A-slalom-dell%27agroericino",
-      "status": "confirmed"
     },
     {
       "id": "valle-templi-pirata-racing-2026-10",
@@ -176,6 +132,17 @@
       "start_date": "2026-10-15",
       "end_date": "2026-10-18",
       "source_url": "https://targa-florio.it/targaflorioclassica/programma/",
+      "status": "confirmed"
+    },
+    {
+      "id": "vincenza-ispica-endurance-2h-2026",
+      "marker": "Circuito Vincenza Ispica",
+      "title": "Endurance Series 2H",
+      "category": "kartodromo",
+      "location": "Ispica",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "source_url": "https://www.circuitovincenzaispica.it/event/endurance-series-2h/",
       "status": "confirmed"
     },
     {
@@ -276,17 +243,6 @@
       "end_date": "2026-10-25",
       "source_url": "https://www.acisport.it/it/acisport/3-15-slalom/10/2025/37",
       "status": "manual"
-    },
-    {
-      "id": "vincenza-ispica-endurance-2h-2026",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Endurance Series 2H",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
-      "source_url": "https://www.circuitovincenzaispica.it/event/endurance-series-2h/",
-      "status": "confirmed"
     },
     {
       "id": "concordia-emozione-corsa-2026-11",
