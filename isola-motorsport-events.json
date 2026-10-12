@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T14:54:48+02:00",
+  "updated_at": "2026-10-12T15:28:09+02:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -80,39 +80,6 @@
       "status": "manual"
     },
     {
-      "id": "valle-templi-pirata-racing-2026-10",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Pirata Racing Team",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-11",
-      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-6.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "karting-messina-sprint-sws-2026-10",
-      "marker": "Karting Club Messina",
-      "title": "Sprint",
-      "category": "kartodromo",
-      "location": "Messina",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
-      "status": "confirmed"
-    },
-    {
-      "id": "sole-luna-25h-of-sicily-2026",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "25H of Sicily",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "source_url": "https://www.circuitosolelunavittoria.it/league_calendar/66",
-      "status": "confirmed"
-    },
-    {
       "id": "slalom-torregrotta-2026",
       "marker": "Slalom Torregrotta",
       "title": "Slalom Torregrotta",
@@ -184,9 +151,9 @@
       "title": "16° Rally di Taormina",
       "category": "rally",
       "location": "Taormina",
-      "start_date": "2026-10-23",
+      "start_date": "2026-10-24",
       "end_date": "2026-10-25",
-      "source_url": "https://www.acisport.it/it/CRZ/calendario-e-risultati/2026/8366/rally-di-taormina/elenco-iscritti-tabella-tempi-e-distanze-mappe-cartine-risultati-orari-chiusura-strade-percorso-programma-e-classifiche-ufficiali",
+      "source_url": "https://www.rallyditaormina.it/",
       "status": "confirmed"
     },
     {
