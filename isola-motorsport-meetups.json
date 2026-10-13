@@ -1,127 +1,6 @@
 {
-  "updated_at": "2026-09-29T14:47:15+02:00",
+  "updated_at": "2026-10-13T16:20:47+02:00",
   "meetups": [
-    {
-      "id": "giro-motociclistico-sicilia-2026",
-      "title": "7° Giro Motociclistico di Sicilia",
-      "location": "Trapani–Palermo",
-      "province": "TP/PA",
-      "organizer": "Club Auto e Moto d’Epoca F. Sartarelli",
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.clubsartarelli.com/",
-      "status": "confirmed"
-    },
-    {
-      "id": "tourist-raid-acireale-2026",
-      "title": "37° Tourist Raid",
-      "location": "Acireale",
-      "province": "CT",
-      "organizer": "Club 4WD Acireale",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "source_url": "https://www.fif4x4.it/raduni/370-tourist-raid-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "gran-premio-la-motta-nicosia-2026",
-      "title": "Gran Premio La Motta 2026 – Festival del Motorismo Storico Mediterraneo",
-      "location": "Nicosia",
-      "province": "EN",
-      "organizer": "Associazione Veicoli Storici Nicosia",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.targapedia.com/news/item/946-gran-premio-la-motta-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "memorial-daniele-paladino-gravina-catania-2026",
-      "title": "4° Memorial Daniele Paladino – Raduno auto, moto e tuning",
-      "location": "Gravina di Catania",
-      "province": "CT",
-      "organizer": "Giuseppe Paladino e Orazio Puglisi",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "source_url": "https://comune.gravina-di-catania.ct.it/it/news/2046074",
-      "status": "confirmed"
-    },
-    {
-      "id": "vespa-memorial-buttiglieri-termini-imerese-2026",
-      "title": "3° Raduno Nazionale – Memorial Gino Buttiglieri",
-      "location": "Termini Imerese",
-      "province": "PA",
-      "organizer": "Vespa Club Termini Imerese",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-fif-rosolini-2026",
-      "title": "2° Raduno F.I.F. Rosolini 4x4",
-      "location": "Rosolini",
-      "province": "SR",
-      "organizer": "A.S.D. Rosolini 4x4",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "source_url": "https://www.fif4x4.it/raduni/20-raduno-fif-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "etnasprint-memorial-di-mauro-2026",
-      "title": "X EtnaSprint – II Memorial Giuseppe Di Mauro",
-      "location": "Catania",
-      "province": "CT",
-      "organizer": "Circolo Veicoli Storici Titani di Trinacria",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-11",
-      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
-      "status": "confirmed"
-    },
-    {
-      "id": "vespa-raduno-ravanusa-2026",
-      "title": "1° Raduno Regionale Turismo Ravanusa",
-      "location": "Ravanusa",
-      "province": "AG",
-      "organizer": "Vespa Club Ravanusa",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "source_url": "https://www.vespaclubditalia.it/calendari-turistici-regionali-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-alfa-romeo-acate-2026",
-      "title": "57° Raduno Alfa Romeo – 3ª Tappa Tour 2026",
-      "location": "Acate",
-      "province": "RG",
-      "organizer": "Sicily Alfa Club",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "source_url": "https://www.sicilyalfaclub.it/57-raduno-alfa-romeo-ad-acate/",
-      "status": "confirmed"
-    },
-    {
-      "id": "ruote-nella-storia-caltanissetta-gela-2026",
-      "title": "Ruote nella Storia – Caltanissetta–Gela",
-      "location": "Caltanissetta–Gela",
-      "province": "CL",
-      "organizer": "Automobile Club Caltanissetta",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "source_url": "https://comune.caltanissetta.it/index.php/it/news/caltanissetta-svela-la-sua-71a-coppa-nissena",
-      "status": "confirmed"
-    },
-    {
-      "id": "tatanka-raid-scordia-2026",
-      "title": "Tatanka Raid 4x4",
-      "location": "Scordia",
-      "province": "CT",
-      "organizer": "Trinacria Team 4x4",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "source_url": "https://www.fif4x4.it/raduni/tatanka-raid-2026",
-      "status": "confirmed"
-    },
     {
       "id": "ruote-nella-storia-sortino-2026",
       "title": "Ruote nella Storia – Sortino Città del miele",
@@ -167,6 +46,17 @@
       "status": "confirmed"
     },
     {
+      "id": "raduno-vespa-opuntia-roccapalumba-2026",
+      "title": "Raduno Vespa – Opuntia Ficus-Indica Fest",
+      "location": "Roccapalumba",
+      "province": "PA",
+      "organizer": "Comune di Roccapalumba",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "source_url": "https://roccapalumba.comune.digital/social-news/i/0e55e2b0bd4237b6c59b9d8706e34fff/xxvi-opuntia-ficus-indica-fest-2026-occasione-della-xxvi-edizione-dellopuntia-ficus-indica-fest-roccapalumba",
+      "status": "confirmed"
+    },
+    {
       "id": "fiat-500-tesori-buccheri-2026",
       "title": "1° Raduno Fiat 500 “I Tesori di Buccheri”",
       "location": "Buccheri",
@@ -186,6 +76,28 @@
       "start_date": "2026-11-08",
       "end_date": "2026-11-08",
       "source_url": "https://www.fif4x4.it/raduni/60-raduno-nazionale-f-i-f-30-memorial-gabriele-di-simone-2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "babbo-natale-fiat-500-agrigento-2026",
+      "title": "9ª edizione Babbo Natale in 500 in visita all’Ospedale di Agrigento",
+      "location": "Agrigento",
+      "province": "AG",
+      "organizer": "Coordinamento Agrigento – Fiat 500 Club Italia",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "source_url": "https://www.500clubitalia.it/etn/9edizione-babbo-natale-in-500-in-visita-allospedale-di-agrigento/",
+      "status": "confirmed"
+    },
+    {
+      "id": "natale-fiat-500-san-giovanni-la-punta-2026",
+      "title": "19° Natale in Fiat 500 a San Giovanni La Punta",
+      "location": "San Giovanni La Punta",
+      "province": "CT",
+      "organizer": "Coordinamento Catania – Fiat 500 Club Italia",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "source_url": "https://www.500clubitalia.it/etn/19-natale-in-fiat-500-a-san-giovanni-la-punta/",
       "status": "confirmed"
     },
     {
