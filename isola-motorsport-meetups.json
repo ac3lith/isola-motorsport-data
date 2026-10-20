@@ -1,59 +1,15 @@
 {
-  "updated_at": "2026-10-13T16:20:47+02:00",
+  "updated_at": "2026-10-20T09:03:17+02:00",
   "meetups": [
     {
-      "id": "ruote-nella-storia-sortino-2026",
-      "title": "Ruote nella Storia – Sortino Città del miele",
-      "location": "Siracusa–Sortino",
-      "province": "SR",
-      "organizer": "Automobile Club Siracusa",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "source_url": "https://siracusa.aci.it/Raduno-Ruote-nella-Storia-Sortino-Citta-del-miele-17-ottobre-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "giro-due-provincie-falde-etna-2026",
-      "title": "Giro delle Due Provincie alle Falde dell’Etna",
-      "location": "Messina",
-      "province": "ME",
-      "organizer": "Automotoclub del Minotauro",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "source_url": "https://asifed.it/wp-content/uploads/2026/04/calendario-2026-x-sito.pdf",
-      "status": "confirmed"
-    },
-    {
-      "id": "memorial-toto-bruno-fiat-500-2026",
-      "title": "Memorial Totò Bruno",
-      "location": "Santa Caterina Villarmosa",
-      "province": "CL",
-      "organizer": "Coordinamento Santa Caterina Villarmosa – Fiat 500 Club Italia",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "source_url": "https://www.500clubitalia.it/etn/memorial-toto-bruno/",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-auto-epoca-roccapalumba-2026",
-      "title": "Raduno di Auto d’Epoca – Opuntia Ficus-Indica Fest",
-      "location": "Roccapalumba",
+      "id": "mobility-expo-palermo-2026",
+      "title": "Mobility Expo 2026",
+      "location": "Palermo",
       "province": "PA",
-      "organizer": "Comune di Roccapalumba",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "source_url": "https://roccapalumba.comune.digital/social-news/i/f99e9f4be12ae736dde1e7df3b10d0e4/opuntia-ficus-indica-fest-2026-occasione-della-xxvi-opuntia-ficus-indica-fest-roccapalumba-ospitera-un-imperdibi",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-vespa-opuntia-roccapalumba-2026",
-      "title": "Raduno Vespa – Opuntia Ficus-Indica Fest",
-      "location": "Roccapalumba",
-      "province": "PA",
-      "organizer": "Comune di Roccapalumba",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "source_url": "https://roccapalumba.comune.digital/social-news/i/0e55e2b0bd4237b6c59b9d8706e34fff/xxvi-opuntia-ficus-indica-fest-2026-occasione-della-xxvi-edizione-dellopuntia-ficus-indica-fest-roccapalumba",
+      "organizer": "Sicilia Motori",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "source_url": "https://www.siciliamotori.it/2026/10/19/tre-giorni-di-incontri-cultura-e-spettacoli-al-mobility-expo-2026/",
       "status": "confirmed"
     },
     {
@@ -65,6 +21,17 @@
       "start_date": "2026-10-25",
       "end_date": "2026-10-25",
       "source_url": "https://www.500clubitalia.it/etn/1-raduno-fiat-500-i-tesori-di-buccheri/",
+      "status": "confirmed"
+    },
+    {
+      "id": "syrako-motorfest-melilli-2026",
+      "title": "1° Motoraduno Syrako Motorfest 2026",
+      "location": "Melilli",
+      "province": "SR",
+      "organizer": "Moto Club Siracusa",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "source_url": "https://www.fmisicilia.it/1-motoraduno-syrako-motorfest-2026/",
       "status": "confirmed"
     },
     {
