@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T15:28:09+02:00",
+  "updated_at": "2026-10-26T18:38:49+01:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -91,116 +91,6 @@
       "status": "manual"
     },
     {
-      "id": "targa-florio-classica-2026",
-      "marker": "Targa Florio Rally",
-      "title": "Targa Florio Classica",
-      "category": "rally",
-      "location": "Palermo",
-      "start_date": "2026-10-15",
-      "end_date": "2026-10-18",
-      "source_url": "https://targa-florio.it/targaflorioclassica/programma/",
-      "status": "confirmed"
-    },
-    {
-      "id": "vincenza-ispica-endurance-2h-2026",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Endurance Series 2H",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "source_url": "https://www.circuitovincenzaispica.it/event/endurance-series-2h/",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-track-day-auto-2026-10",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Track Day Auto",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-3.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "slalom-misilmeri-2026",
-      "marker": "Slalom Misilmeri",
-      "title": "31° Autoslalom Città di Misilmeri",
-      "category": "slalom",
-      "location": "Misilmeri",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "source_url": "https://www.acisport.it/it/acisport/calendari/10/2026/0/0",
-      "status": "confirmed"
-    },
-    {
-      "id": "villarosa-trofeo-trinacria-2026",
-      "marker": "Kartodromo di Villarosa",
-      "title": "Trofeo Trinacria 2026 — 3ª Tappa",
-      "category": "kartodromo",
-      "location": "Villarosa",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "source_url": "https://xracemotorsport.com/en/products/trofeo-trinacria-sicilia-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "rally-taormina-2026",
-      "marker": "Rally di Taormina",
-      "title": "16° Rally di Taormina",
-      "category": "rally",
-      "location": "Taormina",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25",
-      "source_url": "https://www.rallyditaormina.it/",
-      "status": "confirmed"
-    },
-    {
-      "id": "rally-taormina-historic-2026",
-      "marker": "Rally di Taormina",
-      "title": "5° Rally di Taormina Historic Legend",
-      "category": "rally",
-      "location": "Taormina",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25",
-      "source_url": "https://www.acisport.it/it/acisport/dettaglio-calendari/7506538/5%C2%B0--rally-di-taormina-historic-legend",
-      "status": "confirmed"
-    },
-    {
-      "id": "triscina-sprint-sws-2026-10",
-      "marker": "Circuito Internazionale di Triscina",
-      "title": "6ª Prova Campionato Sprint SWS Rent Cup",
-      "category": "kartodromo",
-      "location": "Triscina",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "source_url": "https://www.circuitotriscina.com/?1=calendario",
-      "status": "confirmed"
-    },
-    {
-      "id": "karting-messina-endurance-2h-2026-10",
-      "marker": "Karting Club Messina",
-      "title": "2H Endurance Interprovinciale",
-      "category": "kartodromo",
-      "location": "Messina",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-tumino-moto-2026-10",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Tumino Moto",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25",
-      "source_url": "https://autodromovalledeitempli.com/events/tumino-moto-24/var/ri-3.l-L1/",
-      "status": "confirmed"
-    },
-    {
       "id": "slalom-babbaurra-2026",
       "marker": "Slalom Babbaurra",
       "title": "Slalom Babbaurra",
@@ -267,6 +157,17 @@
       "status": "confirmed"
     },
     {
+      "id": "vincenza-ispica-sprint-cup-vi-2026-11-08",
+      "marker": "Circuito Vincenza Ispica",
+      "title": "Sprint Cup VI Prova",
+      "category": "kartodromo",
+      "location": "Ispica",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "source_url": "https://www.circuitovincenzaispica.it/event/sprint-cup-vi-prova/",
+      "status": "confirmed"
+    },
+    {
       "id": "valle-templi-pirata-racing-2026-11",
       "marker": "Autodromo Valle dei Templi",
       "title": "Pirata Racing Team",
@@ -314,6 +215,17 @@
       "id": "sole-luna-rotax-2-tempi-rental-2026-11-15",
       "marker": "Circuito Internazionale Sole Luna",
       "title": "Rotax 2 Tempi Rental",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "sole-luna-sprint-cup-sws-2026-11-15",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Sprint Cup SWS",
       "category": "kartodromo",
       "location": "Vittoria",
       "start_date": "2026-11-15",
@@ -385,6 +297,17 @@
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
       "source_url": "https://autodromovalledeitempli.com/events/hours-run-2026/var/ri-2.l-L1/",
+      "status": "confirmed"
+    },
+    {
+      "id": "slalom-termini-caccamo-confirmed-2026-11-22",
+      "marker": "Slalom Termini-Caccamo",
+      "title": "2° Slalom Termini-Caccamo",
+      "category": "slalom",
+      "location": "Termini Imerese",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
       "status": "confirmed"
     },
     {
@@ -561,6 +484,17 @@
       "start_date": "2026-12-19",
       "end_date": "2026-12-19",
       "source_url": "https://scuoladiguidasicura.it/products/19-dicembre-2026-sport-driving-experience-pista-del-sole",
+      "status": "confirmed"
+    },
+    {
+      "id": "sole-luna-ironman-2026-12-19",
+      "marker": "Circuito Internazionale Sole Luna",
+      "title": "Ironman",
+      "category": "kartodromo",
+      "location": "Vittoria",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
       "status": "confirmed"
     },
     {
