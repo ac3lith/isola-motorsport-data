@@ -1,37 +1,15 @@
 {
-  "updated_at": "2026-10-20T09:03:17+02:00",
+  "updated_at": "2026-10-27T15:36:49+01:00",
   "meetups": [
     {
-      "id": "mobility-expo-palermo-2026",
-      "title": "Mobility Expo 2026",
-      "location": "Palermo",
-      "province": "PA",
-      "organizer": "Sicilia Motori",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-25",
-      "source_url": "https://www.siciliamotori.it/2026/10/19/tre-giorni-di-incontri-cultura-e-spettacoli-al-mobility-expo-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "fiat-500-tesori-buccheri-2026",
-      "title": "1° Raduno Fiat 500 “I Tesori di Buccheri”",
-      "location": "Buccheri",
-      "province": "SR",
-      "organizer": "Fiat 500 Club Italia",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "source_url": "https://www.500clubitalia.it/etn/1-raduno-fiat-500-i-tesori-di-buccheri/",
-      "status": "confirmed"
-    },
-    {
-      "id": "syrako-motorfest-melilli-2026",
-      "title": "1° Motoraduno Syrako Motorfest 2026",
-      "location": "Melilli",
-      "province": "SR",
-      "organizer": "Moto Club Siracusa",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "source_url": "https://www.fmisicilia.it/1-motoraduno-syrako-motorfest-2026/",
+      "id": "nolimits-misterbianco-2026",
+      "title": "NoLimits 2026",
+      "location": "Misterbianco",
+      "province": "CT",
+      "organizer": "Circolo Matricole del Fuoristrada 4x4 Catania",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "source_url": "https://www.fif4x4.it/raduni/nolimits-2026-2026",
       "status": "confirmed"
     },
     {
@@ -46,6 +24,61 @@
       "status": "confirmed"
     },
     {
+      "id": "autotuning-sagra-cassatella-agira-2026",
+      "title": "Esposizione Autotuning – 14ª Sagra della Cassatella",
+      "location": "Agira",
+      "province": "EN",
+      "organizer": "Team Easy Sound Tuning Performance",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "source_url": "https://etnaeventimanagement.it/sagra-della-cassatella-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "auto-moto-epoca-sagra-cassatella-agira-2026",
+      "title": "Esposizione di Auto e Moto d’Epoca – 14ª Sagra della Cassatella",
+      "location": "Agira",
+      "province": "EN",
+      "organizer": "Comune di Agira ed Etna Eventi Management",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "source_url": "https://etnaeventimanagement.it/sagra-della-cassatella-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "raduno-taormina-4x4-graniti-2026",
+      "title": "Raduno Taormina 4x4 Club",
+      "location": "Graniti",
+      "province": "ME",
+      "organizer": "Taormina 4x4 Club",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "source_url": "https://www.fif4x4.it/raduni/raduno-taormina-4x4-club-2026",
+      "status": "confirmed"
+    },
+    {
+      "id": "motori-castagne-vino-nicolosi-2026",
+      "title": "“I Motori, Castagne e Vino” – Raduno ed esposizione di auto d’epoca",
+      "location": "Nicolosi",
+      "province": "CT",
+      "organizer": "Scuderia Monti Rossi",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "source_url": "https://www.comune.nicolosi.ct.it/vivere-il-comune/eventi/profumi-e-sapori-dautunno-2026/",
+      "status": "confirmed"
+    },
+    {
+      "id": "esposizione-auto-epoca-nicolosi-2026",
+      "title": "Esposizione di Auto d’Epoca – Profumi e Sapori d’Autunno",
+      "location": "Nicolosi",
+      "province": "CT",
+      "organizer": "Comune di Nicolosi",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "source_url": "https://www.comune.nicolosi.ct.it/vivere-il-comune/eventi/profumi-e-sapori-dautunno-2026/",
+      "status": "confirmed"
+    },
+    {
       "id": "babbo-natale-fiat-500-agrigento-2026",
       "title": "9ª edizione Babbo Natale in 500 in visita all’Ospedale di Agrigento",
       "location": "Agrigento",
@@ -54,6 +87,17 @@
       "start_date": "2026-12-13",
       "end_date": "2026-12-13",
       "source_url": "https://www.500clubitalia.it/etn/9edizione-babbo-natale-in-500-in-visita-allospedale-di-agrigento/",
+      "status": "confirmed"
+    },
+    {
+      "id": "mud-experience-castel-di-iudica-2026",
+      "title": "Mud Experience 2026",
+      "location": "Castel di Iudica",
+      "province": "CT",
+      "organizer": "Ciclopi Catania Club 4x4",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "source_url": "https://www.fif4x4.it/raduni/mud-experience-2026-2026",
       "status": "confirmed"
     },
     {
