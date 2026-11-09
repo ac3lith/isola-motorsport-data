@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T18:38:49+01:00",
+  "updated_at": "2026-11-09T14:17:24+01:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -102,17 +102,6 @@
       "status": "manual"
     },
     {
-      "id": "concordia-emozione-corsa-2026-11",
-      "marker": "Autodromo Concordia",
-      "title": "Emozione Corsa",
-      "category": "autodromo",
-      "location": "Favara",
-      "start_date": "2026-11-06",
-      "end_date": "2026-11-08",
-      "source_url": "https://emozionecorsa.com/evento/concordia-6-7-8-novembre-2026/",
-      "status": "confirmed"
-    },
-    {
       "id": "salita-monti-iblei-2026",
       "marker": "Salita dei Monti Iblei",
       "title": "Salita dei Monti Iblei",
@@ -122,50 +111,6 @@
       "end_date": "2026-11-08",
       "source_url": "https://salitamontiiblei.it/",
       "status": "manual"
-    },
-    {
-      "id": "valle-templi-time-attack-2026-11",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Time Attack 2026",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-08",
-      "source_url": "https://autodromovalledeitempli.com/events/time-attack-2026/var/ri-5.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "karting-messina-sprint-sws-2026-11",
-      "marker": "Karting Club Messina",
-      "title": "Sprint Interprovinciale",
-      "category": "kartodromo",
-      "location": "Messina",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
-      "status": "confirmed"
-    },
-    {
-      "id": "sole-luna-finale-trofeo-karting-sicilia-2026",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Finale Trofeo Karting Sicilia",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "source_url": "https://www.kartingsicilia.com/box2026/Calendario2026.pdf",
-      "status": "confirmed"
-    },
-    {
-      "id": "vincenza-ispica-sprint-cup-vi-2026-11-08",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Sprint Cup VI Prova",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "source_url": "https://www.circuitovincenzaispica.it/event/sprint-cup-vi-prova/",
-      "status": "confirmed"
     },
     {
       "id": "valle-templi-pirata-racing-2026-11",
