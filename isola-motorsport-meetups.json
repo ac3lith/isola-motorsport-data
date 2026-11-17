@@ -1,70 +1,15 @@
 {
-  "updated_at": "2026-11-10T09:02:03+01:00",
+  "updated_at": "2026-11-17T11:03:29+01:00",
   "meetups": [
     {
-      "id": "autotuning-sagra-cassatella-agira-2026",
-      "title": "Esposizione Autotuning – 14ª Sagra della Cassatella",
-      "location": "Agira",
-      "province": "EN",
-      "organizer": "Team Easy Sound Tuning Performance",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "source_url": "https://etnaeventimanagement.it/sagra-della-cassatella-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "ronde-della-luna-caltanissetta-2026",
-      "title": "24ª Ronde della Luna - Auto storiche",
-      "location": "Caltanissetta",
-      "province": "CL",
-      "organizer": "Circolo dell'Antico Pistone",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "source_url": "https://www.comune.caltanissetta.it/it/eventi/732988",
-      "status": "confirmed"
-    },
-    {
-      "id": "cc-motorday-benefico-bagheria-2026",
-      "title": "Raduno motociclistico benefico CC Motorday",
-      "location": "Bagheria",
+      "id": "memorial-vincenzo-palmisano-termini-imerese-2026",
+      "title": "13° Memorial Vincenzo Palmisano – Motocavalcata Enduro",
+      "location": "Termini Imerese",
       "province": "PA",
-      "organizer": "Moto Club CC Motorday - Sezione Palermo",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "source_url": "https://www.comune.bagheria.pa.it/it/news/il-moto-club-cc-motorday-in-campo-per-il-centro-di-riuso-solidale",
-      "status": "confirmed"
-    },
-    {
-      "id": "auto-moto-epoca-sagra-cassatella-agira-2026",
-      "title": "Esposizione di Auto e Moto d’Epoca – 14ª Sagra della Cassatella",
-      "location": "Agira",
-      "province": "EN",
-      "organizer": "Comune di Agira ed Etna Eventi Management",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "source_url": "https://etnaeventimanagement.it/sagra-della-cassatella-2026/",
-      "status": "confirmed"
-    },
-    {
-      "id": "raduno-taormina-4x4-graniti-2026",
-      "title": "Raduno Taormina 4x4 Club",
-      "location": "Graniti",
-      "province": "ME",
-      "organizer": "Taormina 4x4 Club",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "source_url": "https://www.fif4x4.it/raduni/raduno-taormina-4x4-club-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "motori-castagne-vino-nicolosi-2026",
-      "title": "“I Motori, Castagne e Vino” – Raduno ed esposizione di auto d’epoca",
-      "location": "Nicolosi",
-      "province": "CT",
-      "organizer": "Scuderia Monti Rossi",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "source_url": "https://www.comune.nicolosi.ct.it/vivere-il-comune/eventi/profumi-e-sapori-dautunno-2026/",
+      "organizer": "Himera Off Road Moto Club",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "source_url": "https://www.memorialvincenzopalmisano.it/programma-2026-enduro-memorial-vincenzo-palmisano/",
       "status": "confirmed"
     },
     {
@@ -142,6 +87,50 @@
       "start_date": "2026-12-20",
       "end_date": "2026-12-20",
       "source_url": "https://www.500clubitalia.it/etn/4-raduno-babbo-natale-in-500-ad-avola/",
+      "status": "confirmed"
+    },
+    {
+      "id": "motovacanza-milazzo-penisola-sole-2027",
+      "title": "Motovacanza Nazionale “Milazzo, la Penisola del Sole”",
+      "location": "Milazzo",
+      "province": "ME",
+      "organizer": "Moto Club Del Tirreno",
+      "start_date": "2027-04-24",
+      "end_date": "2027-05-02",
+      "source_url": "https://www.federmoto.it/wp-content/uploads/sites/2/2026/11/Calendario-Mototurismo-2027-7.pdf",
+      "status": "confirmed"
+    },
+    {
+      "id": "madonna-centauro-sicilia-piedimonte-etneo-2027",
+      "title": "Motoraduno Nazionale Selettiva “Madonna del Centauro di Sicilia”",
+      "location": "Piedimonte Etneo",
+      "province": "CT",
+      "organizer": "Moto Club Centauromenium",
+      "start_date": "2027-07-24",
+      "end_date": "2027-07-25",
+      "source_url": "https://www.federmoto.it/wp-content/uploads/sites/2/2026/11/Calendario-Mototurismo-2027-7.pdf",
+      "status": "confirmed"
+    },
+    {
+      "id": "motoraduno-etna-belpasso-2027",
+      "title": "Motoraduno Nazionale dell’Etna",
+      "location": "Belpasso",
+      "province": "CT",
+      "organizer": "Moto Club Belpasso A.S.D.",
+      "start_date": "2027-08-04",
+      "end_date": "2027-08-08",
+      "source_url": "https://www.federmoto.it/wp-content/uploads/sites/2/2026/11/Calendario-Mototurismo-2027-7.pdf",
+      "status": "confirmed"
+    },
+    {
+      "id": "extreme-riders-curve-gusto-ragusa-2027",
+      "title": "Motoraduno Nazionale “Extreme Riders – Curve & Gusto”",
+      "location": "Ragusa",
+      "province": "RG",
+      "organizer": "Moto Club Extreme Riders",
+      "start_date": "2027-09-18",
+      "end_date": "2027-09-19",
+      "source_url": "https://www.federmoto.it/wp-content/uploads/sites/2/2026/11/Calendario-Mototurismo-2027-7.pdf",
       "status": "confirmed"
     }
   ]
