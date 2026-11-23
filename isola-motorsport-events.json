@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T14:17:24+01:00",
+  "updated_at": "2026-11-23T09:09:16+01:00",
   "events": [
     {
       "id": "catania-etna-manual-2026-05-10",
@@ -113,39 +113,6 @@
       "status": "manual"
     },
     {
-      "id": "valle-templi-pirata-racing-2026-11",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Pirata Racing Team",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-15",
-      "source_url": "https://autodromovalledeitempli.com/events/pirata-racing-team-44/var/ri-7.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "vincenza-ispica-iron-man-vi-2026",
-      "marker": "Circuito Vincenza Ispica",
-      "title": "Iron Man VI prova",
-      "category": "kartodromo",
-      "location": "Ispica",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "source_url": "https://www.circuitovincenzaispica.it/event/iron-man-vi-prova/",
-      "status": "confirmed"
-    },
-    {
-      "id": "concordia-ability-stage-rally-2026-11",
-      "marker": "Autodromo Concordia",
-      "title": "Ability Stage Rally — 4ª Prova",
-      "category": "autodromo",
-      "location": "Favara",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "source_url": "https://www.instagram.com/autodromoconcordia/",
-      "status": "confirmed"
-    },
-    {
       "id": "slalom-monti-iblei-2026",
       "marker": "Slalom Monti Iblei",
       "title": "Slalom Monti Iblei",
@@ -155,105 +122,6 @@
       "end_date": "2026-11-15",
       "source_url": "https://acelith.com/pages/isola-motorsport",
       "status": "manual"
-    },
-    {
-      "id": "sole-luna-rotax-2-tempi-rental-2026-11-15",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Rotax 2 Tempi Rental",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "sole-luna-sprint-cup-sws-2026-11-15",
-      "marker": "Circuito Internazionale Sole Luna",
-      "title": "Sprint Cup SWS",
-      "category": "kartodromo",
-      "location": "Vittoria",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "source_url": "https://www.circuitosolelunavittoria.it/full_calendar/2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "rally-barocco-ibleo-2026",
-      "marker": "Rally Barocco Ibleo",
-      "title": "14° Rally del Barocco Ibleo",
-      "category": "rally",
-      "location": "Ragusa",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-22",
-      "source_url": "https://www.acisport.it/it/acisport/calendari/11/2026/0/0",
-      "status": "confirmed"
-    },
-    {
-      "id": "historic-rally-barocco-ibleo-2026",
-      "marker": "Rally Barocco Ibleo",
-      "title": "2° Historic Rally del Barocco Ibleo",
-      "category": "rally",
-      "location": "Ragusa",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-22",
-      "source_url": "https://www.acisport.it/it/acisport/calendari/11/2026/0/0",
-      "status": "confirmed"
-    },
-    {
-      "id": "triscina-sprint-sws-2026-11",
-      "marker": "Circuito Internazionale di Triscina",
-      "title": "7ª Prova Campionato Sprint SWS Rent Cup",
-      "category": "kartodromo",
-      "location": "Triscina",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "source_url": "https://www.circuitotriscina.com/?1=calendario",
-      "status": "confirmed"
-    },
-    {
-      "id": "karting-messina-endurance-4h-2026-11",
-      "marker": "Karting Club Messina",
-      "title": "4H Endurance",
-      "category": "kartodromo",
-      "location": "Messina",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "source_url": "https://kartingclubmessina.com/calendario-2026-2/",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-track-day-auto-2026-11",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Track Day Auto",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-22",
-      "source_url": "https://autodromovalledeitempli.com/events/track-day-auto-4/var/ri-4.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "valle-templi-hours-run-2026-11",
-      "marker": "Autodromo Valle dei Templi",
-      "title": "Hours Run 2026",
-      "category": "autodromo",
-      "location": "Racalmuto",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "source_url": "https://autodromovalledeitempli.com/events/hours-run-2026/var/ri-2.l-L1/",
-      "status": "confirmed"
-    },
-    {
-      "id": "slalom-termini-caccamo-confirmed-2026-11-22",
-      "marker": "Slalom Termini-Caccamo",
-      "title": "2° Slalom Termini-Caccamo",
-      "category": "slalom",
-      "location": "Termini Imerese",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "source_url": "https://www.acisportdelegazionesicilia.it/slalom/",
-      "status": "confirmed"
     },
     {
       "id": "vincenza-ispica-endurance-4h-2026-11",
@@ -311,17 +179,6 @@
       "status": "confirmed"
     },
     {
-      "id": "triscina-endurance-finale-2026",
-      "marker": "Circuito Internazionale di Triscina",
-      "title": "Finale Campionato Endurance SWS Rent Cup",
-      "category": "kartodromo",
-      "location": "Triscina",
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-05",
-      "source_url": "https://www.circuitotriscina.com/?1=calendario",
-      "status": "confirmed"
-    },
-    {
       "id": "karting-messina-sprint-finale-2026",
       "marker": "Karting Club Messina",
       "title": "Sprint",
@@ -352,6 +209,17 @@
       "start_date": "2026-12-12",
       "end_date": "2026-12-12",
       "source_url": "https://www.circuitovincenzaispica.it/event/iron-man-series/",
+      "status": "confirmed"
+    },
+    {
+      "id": "triscina-sprint-finale-2026",
+      "marker": "Circuito Internazionale di Triscina",
+      "title": "Finale Campionato Sprint SWS Rent Cup",
+      "category": "kartodromo",
+      "location": "Triscina",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "source_url": "https://www.circuitotriscina.com/?1=calendario",
       "status": "confirmed"
     },
     {
@@ -388,9 +256,9 @@
       "status": "confirmed"
     },
     {
-      "id": "triscina-sprint-finale-2026",
+      "id": "triscina-endurance-finale-2026",
       "marker": "Circuito Internazionale di Triscina",
-      "title": "Finale Campionato Sprint SWS Rent Cup",
+      "title": "Finale Campionato Endurance SWS Rent Cup",
       "category": "kartodromo",
       "location": "Triscina",
       "start_date": "2026-12-19",
