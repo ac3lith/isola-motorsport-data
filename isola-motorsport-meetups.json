@@ -1,37 +1,15 @@
 {
-  "updated_at": "2026-11-17T11:03:29+01:00",
+  "updated_at": "2026-11-25T16:42:49+01:00",
   "meetups": [
     {
-      "id": "memorial-vincenzo-palmisano-termini-imerese-2026",
-      "title": "13° Memorial Vincenzo Palmisano – Motocavalcata Enduro",
-      "location": "Termini Imerese",
-      "province": "PA",
-      "organizer": "Himera Off Road Moto Club",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "source_url": "https://www.memorialvincenzopalmisano.it/programma-2026-enduro-memorial-vincenzo-palmisano/",
-      "status": "confirmed"
-    },
-    {
-      "id": "senza-regole-4x4-tortorici-2026",
-      "title": "2° Raduno Nazionale Senza Regole 4x4",
-      "location": "Tortorici",
-      "province": "ME",
-      "organizer": "Senza Regole 4x4 A.S.D.",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "source_url": "https://www.fif4x4.it/it/raduni/20-raduno-nazionale-senza-regole-4x4-2026",
-      "status": "confirmed"
-    },
-    {
-      "id": "esposizione-auto-epoca-nicolosi-2026",
-      "title": "Esposizione di Auto d’Epoca – Profumi e Sapori d’Autunno",
-      "location": "Nicolosi",
+      "id": "tracce-normanne-castel-di-iudica-2026",
+      "title": "Tracce Normanne",
+      "location": "Castel di Iudica",
       "province": "CT",
-      "organizer": "Comune di Nicolosi",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "source_url": "https://www.comune.nicolosi.ct.it/vivere-il-comune/eventi/profumi-e-sapori-dautunno-2026/",
+      "organizer": "Normanni in 4WD",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "source_url": "https://www.fif4x4.it/raduni/tracce-normanne-2026",
       "status": "confirmed"
     },
     {
@@ -68,6 +46,17 @@
       "status": "confirmed"
     },
     {
+      "id": "ruote-nella-storia-messina-2026",
+      "title": "Ruote nella Storia – Messina ieri e oggi",
+      "location": "Messina",
+      "province": "ME",
+      "organizer": "Automobile Club Messina",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "source_url": "https://messina.aci.it/Ruote-nella-Storia-2026-Messina-ieri-ed-oggi",
+      "status": "confirmed"
+    },
+    {
       "id": "natale-in-fiat-500-giarre-2026",
       "title": "Natale in 500",
       "location": "Giarre",
@@ -87,6 +76,17 @@
       "start_date": "2026-12-20",
       "end_date": "2026-12-20",
       "source_url": "https://www.500clubitalia.it/etn/4-raduno-babbo-natale-in-500-ad-avola/",
+      "status": "confirmed"
+    },
+    {
+      "id": "akrai-over-the-top-palazzolo-acreide-2026",
+      "title": "4° Raduno Akrai Over the Top",
+      "location": "Palazzolo Acreide",
+      "province": "SR",
+      "organizer": "Akrai Over the Top",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "source_url": "https://www.fif4x4.it/raduni/40-raduno-akrai-over-the-top-2026",
       "status": "confirmed"
     },
     {
